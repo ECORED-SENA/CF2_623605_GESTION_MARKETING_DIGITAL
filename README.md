@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF2_623605_GESTION_MARKETING_DIGITAL/](https://ecored-sena.github.io/CF2_623605_GESTION_MARKETING_DIGITAL/)
 
 #
 
