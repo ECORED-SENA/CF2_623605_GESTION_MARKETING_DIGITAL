@@ -1,19 +1,411 @@
 .banner-principal-decorativo
-  &-1
-    animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 40%
-    right: 50%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    -webkit-backface-visibility: hidden
+    animation: fade 10s ease-in infinite
+    animation-direction: alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 10%
+    right: 75%
+  &-1
+    -webkit-backface-visibility: hidden
+    animation: fade2 10s ease-out infinite
+    animation-direction: alternate
+    position: absolute
+    top: 8%
+    right: 74.5%
+  &-3
+    animation: scale 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 8%
+    right: 19%
+  &-4
+    animation: float4 4.8s ease-in-out infinite alternate
+    position: absolute
+    top: 52%
+    right: 10%
+  &-5
+    animation: float3 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 81%
+    right: 40%          
+
+@keyframes scale
+  0%
+    transform: scale(1)
+
+  100%
+    transform: scale(1.2)
 
 
-@keyframes float1
+@keyframes fade
+  0%
+    opacity: 1
+  33%
+    opacity: 0
+  66%
+    opacity: 1
+  100%
+    opacity: 0
+
+
+@keyframes fade2
+  0%
+    opacity: 0
+  33%
+    opacity: 1
+  66%
+    opacity: 0
+  100%
+    opacity: 1    
+
+@keyframes float4
+	0% 
+		transform: rotate(0deg) translateX(-20px) rotate(-20deg)
+	
+
+	100% 
+		transform: rotate(-180deg) translateX(-20px) rotate(180deg) 
+
+@keyframes float3
   0%
     transform: translateY(20px)
 
-  100%
+  50%
     transform: translateY(0px)
+  100%
+    transform: rotate(-10deg)   
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/6.png") !important    
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: white
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto
+.imgs-flotantes
+  position: relative
+.imgs-flotantes img.img-flotante
+  animation: float2 3.5s ease-in-out infinite alternate
+  position: absolute
+  top: -25%
+  left: -5%
+  width: 900px
+  @media (max-width: 810px)
+    width: 0px
+    left: 1%
+    display: none 
+
+.imgs-flotantes1
+  position: relative
+.imgs-flotantes1 img.img-flotante1
+  animation: float2 3.5s ease-in-out infinite alternate
+  position: absolute
+  top: -20%
+  left: -3%
+  width: 900px
+  @media (max-width: 810px)
+    width: 0px
+    left: 1%
+    display: none     
+
+@keyframes float2
+  0%
+    transform: translatey(15px)
+
+  100%
+    transform: translatey(0px)   
+
+.bg1
+  background-color: #21155C
+  *
+    color: white
+  border-radius: 15px        
+
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__bulletNumber 
+      position: relative
+      width: 50px
+      height: 50px
+      margin-right: 1rem
+      text-align: center
+      border-radius: 50%
+      background-color: #339CE9
+      span 
+        color: red
+        font-weight: 700
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+        font-size: 30px
+      
+    
+    &__number 
+      position: relative
+      margin-right: 0.5rem
+      span 
+        color:#BF3976
+        font-size: 13pt
+        font-weight: 700
+        line-height: 1.2
+      
+    
+    &__icon 
+      position: relative
+      width: 30px
+      margin-right: 0.65rem
+      margin-top: 0px
+      img 
+        width: 30px
+        vertical-align: middle
+        
+  &__txt 
+    p:first-child,
+    h4:first-child 
+      margin-top: 2px  
+
+.bg2
+  background-color: #F9F6FF
+  border-radius: 0 10px 10px 0  
+
+.horizontal-scroll
+  align-items: stretch !important
+  padding-top: 2rem
+  padding-bottom: 2rem      
+
+.tarjeta.color-acento-botones
+  background-color: #FFD41C
+  *
+    color: $color-sistema-texto
+
+.img-w
+  width: 70%       
+
+.tarjeta
+  &--azul
+    background-image: url('../assets/curso/temas/img14.png') 
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center  
+
+  &--gris
+    background-image: url('../assets/curso/temas/img168.png') 
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center       
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  @media (max-width: 810px)
+    width: 35px
+    height: 35px
+  @media (max-width: $bp-max-sm )
+    width: 25px
+    height: 25px  
+.slyder-a__bullets__item    
+  @media (max-width: 810px)
+    width: 10px
+    height: 10px  
+    margin: 0 3px   
+  @media (max-width: $bp-max-sm)
+    width: 10px
+    height: 10px  
+    margin: 0 3px   
+
+.slyder-a__bullets__item--active
+  background-color: #21155C !important
+  border: 1px solid #21155C
+.slyder-a__bullets__item
+  background-color: #A399C4
+  border: 1px solid #A399C4       
+
+.bg3
+  background-image: url("../assets/curso/temas/img1.png") 
+  border-radius: 20px
+  background-repeat: no-repeat
+  background-size: cover  
+
+.bg4
+  background-color: #FFD41C  
+
+.img-a1
+  position: absolute
+  width: 60px
+  top: -24px
+  left: 72% 
+.img-a2
+  position: absolute
+  width: 60px
+  bottom: -24px
+  left: 10%    
+
+.bg5
+  background-color: #E8E1FC
+  border-radius: 5px
+  margin-left: 1px
+  margin-right: 1px
+  display: flex
+  justify-content: center
+  align-items: center    
+
+.bg-degrade
+  background: #E8E1FC
+.bg-degrade1
+  background: #FFF1B3 
+.bg-degrade2
+  background: #D1C3FA
+.bg-degrade3
+  background: #E8E1FC    
+.tarjeta-foto-hover
+  position: relative
+  overflow: hidden
+  cursor: pointer
+  &:hover
+    .tarjeta-foto-hover__tarjeta
+      transform: translateY(0%)
+
+  &__titulo
+    position: absolute
+    bottom: 0
+    width: 100%
+  &__tarjeta
+    transition: transform 0.3s ease-in-out
+    position: absolute
+    bottom: 0
+    width: 100%
+    height: 100%
+    transform: translateY(100%)   
+
+.bg6
+  background-color: #E8E1FC  
+
+.color-v
+  color: #764CF0 !important
+
+.img-a3
+  position: relative
+  width: 60px
+  left: 40px
+  top: 20px 
+
+.img-a4
+  position: relative
+  width: 134px
+  left: 40px
+  top: 20px    
+
+.bg7
+  background-color: #FFF1B3
+  border-radius: 15px
+
+.bg8
+  background-color: #CCFFF0
+  border-radius: 15px  
+
+.tarjeta.color-acento-botones
+  background-color: #E8E1FC
+  h4,p
+    color: #12263F
+
+.tabs-a__tab
+  background-color: #E8E8E8
+
+.tabs-a.color-acento-contenido .tabs-a__tab__selected
+  .tabs-a__tab__text
+    color: white            
+
+.bg10
+  background-color: #F9F6FF    
+
+.bg11
+  background-color: #A488F5
+  border-radius: 15px
+
+.bg12
+  background-color: #FFE268
+  border-radius: 15px    
+
+.acordion
+  .tarjeta.bg13
+    background-color: #F9F6FF
+
+.tarjeta.bg13.acordion__activo
+  background-color: #E8E1FC !important
+
+.color-v1
+  color: #26D19E !important      
+
+.bg13
+  background-color: #FFF1B3
+
+.bgtex
+  color: #764CF0
+
+.borde
+  border-top: 5px solid #764CF0
+  &_2
+    border-top: 5px solid #764CF0
+
+.bg14      
+  background-image: url('../assets/curso/temas/img115.png') 
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center 
+
+.pasos-a.color-acento-contenido .pasos-a__circle div
+  color: white
+
+.bg15
+  background-color: white !important
+.tabs-b__tab
+  border-right: 2px solid #D1C3FA
+  border-bottom: 2px solid white         
+
+.bg16
+  background-color: #FFE268
+  border-radius: 15px
+
+.imagen-absolute
+  position: absolute
+  bottom: 0
+  left: 0
+  transform: translateX(105%) translateY(20%)
+  @media (max-width: $bp-max-lg)
+    width: inherit    
+  @media (max-width: 1300px)    
+    transform: translateX(85%) translateY(10%) 
+  @media (max-width: 810px)    
+    transform: translateX(70%) translateY(-3%) 
+  @media (max-width: 428px)    
+    display: none    
+.up
+  z-index: 2 
+
+.bg17
+  background-color: #E8E1FC
+  border-radius: 0px 10px 10px 0
+  border-left: 15px solid white        
+  display: flex
+  justify-content: center
+  align-items: center   
+  
+.bg18
+  background-color: #CCFFF0
+
+.bg19
+  background-color: #FFF1B3
+  border-radius: 0px 10px 10px 0
+  border-left: 15px solid white        
+  display: flex
+  justify-content: center
+  align-items: center    
+
+.bg20
+  background-color: white
+  border-radius: 15px    
