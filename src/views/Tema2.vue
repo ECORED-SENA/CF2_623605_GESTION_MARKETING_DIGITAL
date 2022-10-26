@@ -16,8 +16,8 @@
               figure
                 img(src="@/assets/curso/temas/img114.svg", alt="alt")
             .col
-              h4.mb-0.bgtex Paso 1.      
-              p.mb-0 Definir las necesidades.
+              h4.mb-0.bgtex Paso 1      
+              h5.mb-0 Definir las necesidades.
               .col-md-3.borde
               
           p(data-aos="fade-down").mb-5 Se debe saber qué se requiere para definir al cliente ideal. Quien tiene la información, tiene el poder,  por eso, mientras más datos se recopilen es mejor, porque se podrá definir las necesidades del <i>Buyer</i> Persona. Se deben analizar datos generales de la persona, además de datos más personales,  como por ejemplo los que se encuentran en el siguiente recurso:
@@ -69,8 +69,8 @@
               figure
                 img(src="@/assets/curso/temas/img122.svg", alt="alt")
             .col
-              h4.mb-0.bgtex Paso 2.      
-              p.mb-0 Recopilar más datos sobre los clientes.
+              h4.mb-0.bgtex Paso 2      
+              h5.mb-0 Recopilar más datos sobre los clientes.
               .col-md-3.borde
               
           p(data-aos="fade-down").mb-5 Se debe comenzar con la recopilación (online y offline) de todo lo que se pueda sobre los clientes.
@@ -117,8 +117,8 @@
                   figure
                     img(src="@/assets/curso/temas/img136.svg", alt="alt")
                 .col
-                  h4.mb-0.bgtex Paso 3.      
-                  p.mb-0 Construir el <i>Buyer</i> Persona
+                  h4.mb-0.bgtex Paso 3      
+                  h5.mb-0 Construir el <i>Buyer</i> Persona
                   .col-md-3.borde
                   
           .row.justify-content-center.align-items-center.mb-5           
@@ -136,8 +136,8 @@
                   figure
                     img(src="@/assets/curso/temas/img137.svg", alt="alt")
                 .col
-                  h4.mb-0.bgtex Paso 4.      
-                  p.mb-0 Concretar la estrategia y los puntos clave.
+                  h4.mb-0.bgtex Paso 4      
+                  h5.mb-0 Concretar la estrategia y los puntos clave.
                   .col-md-3.borde
                   
           .row.justify-content-center.align-items-center.mb-5           
@@ -153,8 +153,8 @@
                   figure
                     img(src="@/assets/curso/temas/img138.svg", alt="alt")
                 .col
-                  h4.mb-0.bgtex Paso 5.      
-                  p.mb-0 Usar mecanismos de retroalimentación.
+                  h4.mb-0.bgtex Paso 5      
+                  h5.mb-0 Usar mecanismos de retroalimentación.
                   .col-md-3.borde
                   
           .row.justify-content-center.align-items-center.mb-5           
@@ -311,7 +311,7 @@
       .col-lg-4      
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img154.png', alt='')
       .col-lg-8
-        p(data-aos="fade-down") Las respuestas van a permitir la compresión sobre cómo hacer la búsqueda y la atracción de los prospectos perfectos para nutrir el embudo de ventas. Existen distintas estrategias para responder estas preguntas y normalmente se usan plataformas de analítica, de investigación de palabras claves y de escucha social. Pero, lo más importante para comenzar es la definición de quién es el cliente, lo que no se soluciona con una plataforma tecnológica sino con un proceso de “lluvia de ideas” que se llama “análisis del Buying Persona” que ayuda a representar y a modelar al potencial cliente.
+        p(data-aos="fade-down") Las respuestas van a permitir la compresión sobre cómo hacer la búsqueda y la atracción de los prospectos perfectos para nutrir el embudo de ventas. Existen distintas estrategias para responder estas preguntas y normalmente se usan plataformas de analítica, de investigación de palabras claves y de escucha social. Pero, lo más importante para comenzar es la definición de quién es el cliente, lo que no se soluciona con una plataforma tecnológica sino con un proceso de “lluvia de ideas” que se llama “análisis del <i>buying</i> Persona” que ayuda a representar y a modelar al potencial cliente.
         .row.justify-content-start.align-items-center.bg18.p-1    
           .col-lg-10.col-md-10.up.col-sm-12
             p(data-aos="fade-down").mb-0.px-4 Una vez creado el <i>Buyer</i> Persona, se puede continuar con una estrategia que integre campaña publicitaria, cimentación del sitio web y contenidos digitales. En mercadeo digital, estas tres labores deben dar tiene que ser espectaculares para que se puedan lograr los objetivos pactados.
@@ -331,7 +331,7 @@
       .col-lg-10
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img156.svg', alt='')
 
-    p(data-aos="fade-down").mb-5 Estas herramientas entregan una plantilla con los datos hallados, que en diseño, puede ser muy parecida a una infografía, es descriptiva y se puede personalizar el texto para añadir observaciones sobre la información y, obviamente, crear los perfiles de clientes. Estos reportes o informes, posteriormente servirán para la creación del <i>Buyer</i> Persona. Incluso, se puede deducir cuáles con las frases y palabras clave usadas para la búsqueda en Google y con ello, configurar y administrar campañas de Google Ads y SEO. De esta forma, y tras buscar en Google, se puede lograr que el sitio web le brinde información que pueda resolver sus necesidades y, al invitarlo a visitar el sitio, se puede continuar con la conversión. El objetivo es atraer a ese “extraño” para convertirlo en cliente actual (Beltrán, Ledesma, & Parrales, 2019).
+    p(data-aos="fade-down").mb-5 Estas herramientas entregan una plantilla con los datos hallados, que en diseño, puede ser muy parecida a una infografía, es descriptiva y se puede personalizar el texto para añadir observaciones sobre la información y, obviamente, crear los perfiles de clientes. Estos reportes o informes, posteriormente servirán para la creación del <i>Buyer</i> Persona. Incluso, se puede deducir cuáles con las frases y palabras clave usadas para la búsqueda en Google y con ello, configurar y administrar campañas de Google <i>ads</i> y SEO. De esta forma, y tras buscar en Google, se puede lograr que el sitio web le brinde información que pueda resolver sus necesidades y, al invitarlo a visitar el sitio, se puede continuar con la conversión. El objetivo es atraer a ese “extraño” para convertirlo en cliente actual (Beltrán, Ledesma, & Parrales, 2019).
 
     Separador 
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -341,7 +341,7 @@
       .col-lg-4      
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img157.png', alt='')
       .col-lg-8
-        p(data-aos="fade-down") El análisis del <i>Buyer</i> Persona está claramente relacionado con la CX como lo afirma Pozo, José (2018). Por ejemplo, el 75% de los clientes acepta invertir más dinero para comprar en una marca que brinde una excelente experiencia de cliente. Por eso, hoy en día se invierte más dinero en plataformas que entreguen mejores experiencias en todo el proceso de compra. Pero, por otro lado, además de lo anterior, es vital poder medir y conocer los KPI (Key Performance Indicators o indicadores clave de rendimiento) de la CX, para poder conocer, gestionar y mejorar las estrategias diseñadas para el <i>Buyer</i> Persona.
+        p(data-aos="fade-down") El análisis del <i>Buyer</i> Persona está claramente relacionado con la CX como lo afirma Pozo, José (2018). Por ejemplo, el 75% de los clientes acepta invertir más dinero para comprar en una marca que brinde una excelente experiencia de cliente. Por eso, hoy en día se invierte más dinero en plataformas que entreguen mejores experiencias en todo el proceso de compra. Pero, por otro lado, además de lo anterior, es vital poder medir y conocer los KPI (<i>Key Performance Indicators</i> o indicadores clave de rendimiento) de la CX, para poder conocer, gestionar y mejorar las estrategias diseñadas para el <i>Buyer</i> Persona.
 
         p(data-aos="fade-down") Las métricas CX se refieren a un valor medible que indica cuán eficiente está siendo una estrategia de experiencia de cliente para lograr los objetivos pactados. Es decir, con estos indicadores se pueden medir si las actividades de CX están logrando los objetivos propuestos por la marca o si, por el contrario, hay desviaciones.
 
@@ -439,7 +439,7 @@
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-start.p-3
           .col-lg-6.mb-4.mb-md-0
-            h4 Net Promoter Score (NPS).
+            h4 <i>Net Promoter Score (NPS).</i>
             p Se trata de uno de los CX KPI más relevantes, porque mide la probabilidad que tiene un cliente de recomendar una marca o sus productos a sus contactos. Se centra en la intención del cliente y no en una sensación o algo emocional (que puede variar).
 
             p.mb-4 El NPS se efectúa a través de una encuesta, en la que las respuestas obtenidas se recopilan en una escala de 1 al 10.              
@@ -454,7 +454,7 @@
 
         .row.justify-content-center.align-items-start.p-3
           .col-lg-6.mb-4.mb-md-0
-            h4 Customer Effort Score (CES).  
+            h4 <i>Customer Effort Score (CES).</i>  
             p.mb-4 Es el #[b “Indicador de Esfuerzo del Cliente”], es decir, el nivel de esfuerzo del cliente para tener una relación con la empresa. Con este indicador, los clientes califican su CX en relación al uso de los productos de una marca eligiendo variables ubicadas entre “muy difícil” a “muy fácil”. A través de esta asignación, la marca puede establecer cuál es el esfuerzo que requirió el cliente para comprar el producto y la probabilidad de que lo siga haciendo. 
             .bg20.p-4
               h5.mb-4 Ejemplo:
@@ -612,7 +612,7 @@
         .col-md-2
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img185.svg', alt='')
 
-    p(data-aos="fade-down").mb-0 Finalmente, a través de la inteligencia de datos (data intelligence), la tecnología puede analizar el historial del consumidor para reconocer sus predilecciones y ser usadas en futuras interacciones. Todo con el fin de hacer mejoras continuas sobre la marcha en cuestión del servicio y atención al cliente. Lo que brinda direcciones más apropiadas agregando valor para el cliente (Castañeda, 2022).          
+    p(data-aos="fade-down").mb-0 Finalmente, a través de la inteligencia de datos <i>(data intelligence)</i>, la tecnología puede analizar el historial del consumidor para reconocer sus predilecciones y ser usadas en futuras interacciones. Todo con el fin de hacer mejoras continuas sobre la marcha en cuestión del servicio y atención al cliente. Lo que brinda direcciones más apropiadas agregando valor para el cliente (Castañeda, 2022).          
 </template>
 <script>
 export default {

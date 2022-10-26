@@ -11,7 +11,7 @@
       .col-lg-4      
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img2.svg', alt='')
       .col-lg-8.my-3
-        p(data-aos="fade-down") Álvarez, Marcos (2016) dice que Customer Experience (CX) o la experiencia de cliente es una estrategia que se convirtió en la actualidad en el genuino diferenciador entre los negocios y en una pieza clave del customer centricity o centricidad en el cliente. Es así que personifica una ventaja competitiva única, porque casi todas las ventajas racionales básicas ofrecidas por las marcas, son dadas por parte del cliente como si fueran un hecho. Por esta razón el cliente piensa que el producto es apto para la compra respondiendo a sus necesidades, así como que el producto llegará justo a tiempo y que en caso de tener problemas se le atenderá de la mejor forma. 
+        p(data-aos="fade-down") Álvarez, Marcos (2016) dice que <i>Customer Experience</i> (CX) o la experiencia de cliente es una estrategia que se convirtió en la actualidad en el genuino diferenciador entre los negocios y en una pieza clave del <i>customer centricity</i> o centricidad en el cliente. Es así que personifica una ventaja competitiva única, porque casi todas las ventajas racionales básicas ofrecidas por las marcas, son dadas por parte del cliente como si fueran un hecho. Por esta razón el cliente piensa que el producto es apto para la compra respondiendo a sus necesidades, así como que el producto llegará justo a tiempo y que en caso de tener problemas se le atenderá de la mejor forma. 
 
         p(data-aos="fade-down") La experiencia de cliente es la imagen que un cliente posee de las interacciones vividas con una marca. Por eso, las interacciones se pueden producir en distintos momentos de la transacción comercial, como, por ejemplo:
 
@@ -21,7 +21,7 @@
       .col-lg-2.my-3 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img4.svg', alt='')   
       .col-lg-10.my-3
-        p(data-aos="fade-down") La experiencia del cliente es la imagen general que tiene el cliente de todos esos momentos durante el Customer Journey (o sea el viaje realizado por el cliente para realizar una acción de compra).
+        p(data-aos="fade-down") La experiencia del cliente es la imagen general que tiene el cliente de todos esos momentos durante el <i>Customer Journey</i> (o sea el viaje realizado por el cliente para realizar una acción de compra).
 
         p(data-aos="fade-down").mb-0 Es difícil que las marcas puedan conservar el liderazgo diferenciándose con el producto o a través de su costo, durante mucho tiempo (debido a la competencia). Con la economía a gran escala, la producción industrial y el ahorro de costos es normal que existan marcas que lo hagan igual y más económico. Sin embargo, el cliente supone que están a la orden del día temas relevantes como el servicio, el precio y la calidad. 
 
@@ -52,7 +52,7 @@
           .list__txt
             h3.mb-0.mt-1 Beneficios de la experiencia de cliente 
 
-    p(data-aos="fade-down").mb-5 Al tener una visión del Customer Journey y la gestión de las interacciones con la marca por parte del cliente se puede administrar y mejorar su experiencia. Los siguientes son algunos de los beneficios para las marcas:    
+    p(data-aos="fade-down").mb-5 Al tener una visión del <i>Customer Journey</i> y la gestión de las interacciones con la marca por parte del cliente se puede administrar y mejorar su experiencia. Los siguientes son algunos de los beneficios para las marcas:    
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-right")
       .tarjeta.bg4.p-4.h-100.position-relative.slyderF-media
@@ -78,7 +78,7 @@
           img.img-a.img-t(src='@/assets/curso/temas/img11.png').mx-auto
         
         h4.text-center Escucha continua del cliente
-        p.text-center Si se plantea el CX como herramienta, obliga a conocer mejor el público objetivo y a administrar su experiencia. Esto involucra hacer una medición sobre la imagen del cliente cada vez que interactúe con la marca y, además, estar siempre vigilante   
+        p.text-center Si se plantea el CX como herramienta, obliga a conocer mejor el público objetivo y a administrar su experiencia. Esto involucra hacer una medición sobre la imagen del cliente cada vez que interactúe con la marca y, además, estar siempre vigilante.   
         img.img-a1(src='@/assets/componentes/circulo.svg')
         img.img-a2(src='@/assets/componentes/rectangulo.svg')
 
@@ -115,7 +115,7 @@
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-start.p-3
           .col-lg-6.mb-4.mb-md-0
-            h4 Mantener una identidad única.
+            h4 Mantener una identidad única
             p No significa siempre hacer las mismas cosas que las demás marcas del sector. La estrategia de experiencia de cliente debe estar orientada a todo aquello que desea el cliente y, además, superar con creces esas expectativas. No se recomienda repetir planes anteriores, se sugiere intentar sobresalir en las ideas de manera original y creativa, porque de lo contrario, la marca será una más.
         
           .col-lg-6
@@ -123,27 +123,27 @@
         .row.justify-content-center.align-items-start.p-3
           .col-lg-6.mb-4.mb-md-0
             h4 Lograr impulso organizativo 
-            p Toda la organización es responsable de crear, desarrollar y mantener  una CX,  aunque sí debe existir un responsable, puede ser un gerente comercial o un experto en mercadeo. Es cuando entra en acción la figura del Chief Customer Officer, o sea, quien se responsabiliza de la CX. Es un cargo vital ya que, en la mayor parte de los casos, los negocios deben implementar una estrategia dentro de su cotidianidad. La función principal es el diseño y administración del CX en su versión transversal a través de la empresa. Es quien debe preocuparse por los momentos de la verdad en cada uno de los touchpoint (punto o momentos de contacto) que la marca tenga con el cliente.  
+            p Toda la organización es responsable de crear, desarrollar y mantener  una CX,  aunque sí debe existir un responsable, puede ser un gerente comercial o un experto en mercadeo. Es cuando entra en acción la figura del <i>Chief Customer Officer</i>, o sea, quien se responsabiliza de la CX. Es un cargo vital ya que, en la mayor parte de los casos, los negocios deben implementar una estrategia dentro de su cotidianidad. La función principal es el diseño y administración del CX en su versión transversal a través de la empresa. Es quien debe preocuparse por los momentos de la verdad en cada uno de los touchpoint (punto o momentos de contacto) que la marca tenga con el cliente.  
         
           .col-lg-6
             img.img-a.img-t(src='@/assets/curso/temas/img16.png', alt='') 
         .row.justify-content-center.align-items-start.p-3
           .col-lg-6.mb-4.mb-md-0
-            h4 Involucrar a los empleados y conseguir que se involucren naturalmente. 
-            p Para desarrollar la estrategia de CX se necesita contar con los empleados del negocio. Al ser un proceso que debe pasar por varias etapas, lo ideal es que el CX incluya todos los departamentos, y por eso, es vital que todos los empleados tengan credibilidad y confianza en la estrategia. Tácticas como alinear las políticas de Recursos Humanos, informar y capacitar a toda la empresa o proporcionar importancia a los empleados en el diseñar de la estrategia. Los primeros clientes de una marca son siempre los empleados; a través de ellos es como se logra el éxito, y es donde entra en juego el concepto de Employee Experience (Experiencia del Empleado) que también es vital tenerlo en cuenta.  
+            h4 Involucrar a los empleados y conseguir que se involucren naturalmente 
+            p Para desarrollar la estrategia de CX se necesita contar con los empleados del negocio. Al ser un proceso que debe pasar por varias etapas, lo ideal es que el CX incluya todos los departamentos, y por eso, es vital que todos los empleados tengan credibilidad y confianza en la estrategia. Tácticas como alinear las políticas de Recursos Humanos, informar y capacitar a toda la empresa o proporcionar importancia a los empleados en el diseñar de la estrategia. Los primeros clientes de una marca son siempre los empleados; a través de ellos es como se logra el éxito, y es donde entra en juego el concepto de <i>Employee Experience</i> (Experiencia del Empleado) que también es vital tenerlo en cuenta.  
         
           .col-lg-6
             img.img-a.img-t(src='@/assets/curso/temas/img17.png', alt='')
         .row.justify-content-center.align-items-start.p-3
           .col-lg-6.mb-4.mb-md-0
-            h4 Generar interacciones de los productos. 
-            p La generación de interacciones de los productos con el cliente es vital, y más aún, si luego de ello se logra la recomendación. El #[i marketing] viral en todo su esplendor, logrando que los mismos usuarios recomienden la marca a sus contactos. Esto se logra cuando se tienen clientes que han vivido una CX inolvidable. Actualmente, existen un mundo de productos parecidos, un mundo de vendedores con ofreciendo lo mismo. Por eso, ser diferente es una opción que puede ser viable para los más ágiles en su relación con el cliente. El comercio electrónico y el #[i marketing] digital deben ser aprovechados al máximo para generar interacciones con los clientes y posteriormente las recomendaciones de ellos a sus contactos, usando herramientas como el correo electrónico, las redes sociales, el sitio web y el blog, entre otras.  
+            h4 Generar interacciones de los productos
+            p La generación de interacciones de los productos con el cliente es vital, y más aún, si luego de ello se logra la recomendación. El #[i marketing] viral en todo su esplendor, logrando que los mismos usuarios recomienden la marca a sus contactos. Esto se logra cuando se tienen clientes que han vivido una CX inolvidable. Actualmente, existen un mundo de productos parecidos, un mundo de vendedores con ofreciendo lo mismo. Por eso, ser diferente es una opción que puede ser viable para los más ágiles en su relación con el cliente. El comercio electrónico y el #[i marketing] digital deben ser aprovechados al máximo para generar interacciones con los clientes y posteriormente las recomendaciones de ellos a sus contactos, usando herramientas como el correo electrónico, las redes sociales, el sitio <i>web</i> y el blog, entre otras.  
         
           .col-lg-6
             img.img-a.img-t(src='@/assets/curso/temas/img18.png', alt='')
         .row.justify-content-center.align-items-start.p-3
           .col-lg-5.mb-4.mb-md-0
-            h4 Interpretar los resultados del Customer Experience y actuar. 
+            h4 Interpretar los resultados del <i>Customer Experience</i> y actuar 
             p La CX, al poderse gestionar, se puede medir. Por lo tanto, se debe encontrar la métrica adecuada para cada cliente.
             p Resulta fundamental generar procesos de seguimiento y monitoreo a partir de los resultados, potencializando la experiencia post venta como parte de la estrategia de fidelización.  
         
@@ -160,7 +160,7 @@
       .col-lg-8
         p(data-aos="fade-down") Se trata de una representación visual de la experiencia vivida por el cliente con la marca. Se diseña a través de imágenes que muestran una historia sobre cómo un cliente se va moviendo a lo largo de cada etapa o momento donde interactuó con la marca y la experiencia que tuvo en cada una. Tiene que contener los momentos o puntos de contacto y los momentos de la verdad; así como también, las posibles emociones del cliente (frustración, confusión, felicidad), y las acciones que la marca desee que realice el cliente. 
 
-        p(data-aos="fade-down") Su diseño debe ser personalizado al contexto empresarial, por lo que no existe un formato único. Se puede diseñar en algún software especializado como Microsoft Visio, Illustrator, CorelDraw, PowerPoint o Word. Aunque también existen plantillas o herramientas digitales para poderlas diligenciar y personalizar, como por ejemplo Gliffy (gratuita y de pago), UXPressia (grauita y de pago), Smaply (de pago), entre otras.
+        p(data-aos="fade-down") Su diseño debe ser personalizado al contexto empresarial, por lo que no existe un formato único. Se puede diseñar en algún <i>software</i> especializado como Microsoft Visio, Illustrator, CorelDraw, PowerPoint o Word. Aunque también existen plantillas o herramientas digitales para poderlas diligenciar y personalizar, como por ejemplo Gliffy (gratuita y de pago), UXPressia (grauita y de pago), Smaply (de pago), entre otras.
 
     p(data-aos="fade-down").mb-5 A continuación, se presentan en las siguientes figuras dos ejemplos de diseño de mapa de CX: 
 
@@ -168,13 +168,13 @@
       p.mb-0 #[b Figura 1.]  Mapa de experiencia
 
     img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/img21.svg', alt='')
-    figcaption(data-aos="flip-down").mb-5 <b>Nota</b>. 5 ejemplos de cómo crear un Customer Journey Map efectivo. Rojas (2017). 
+    figcaption(data-aos="flip-down").mb-5 <b>Nota</b>. 5 ejemplos de cómo crear un <i>Customer Journey</i> Map efectivo. Rojas (2017). 
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
       p.mb-0 #[b Figura 2.]  Mapa de experiencia
 
     img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/img22.svg', alt='')
-    figcaption(data-aos="flip-down").mb-5 <b>Nota</b>. 5 ejemplos de cómo crear un Customer Journey Map efectivo. Rojas (2017).  
+    figcaption(data-aos="flip-down").mb-5 <b>Nota</b>. 5 ejemplos de cómo crear un <i>Customer Journey</i> Map efectivo. Rojas (2017).  
 
     p(data-aos="fade-down").mb-5 El mapa se basa por lo general en un cronograma de actividades (puntos o momentos de contacto), como, por ejemplo:
 
@@ -186,7 +186,7 @@
               img(src='@/assets/curso/temas/img23.svg', alt='')
           .col-9.align-items-center.p-3
             div
-              p.mb-0 La primera vez que llegó al sitio web. 
+              p.mb-0 La primera vez que llegó al sitio <i>web</i>. 
       .col-12.col-lg-4.mb-3.h-100(data-aos="zoom-in")
         .row.bg5
           .col-3.px-0.align-items-center
@@ -386,7 +386,7 @@
               img(src='@/assets/curso/temas/img43.png')
           .col-md-7.col-10.mb-4.mb-md-0
             h4.mt-3 Paso 5: Visualizar el mapa y analizar los resultados.
-            p Comprender los objetivos del negocio en general. Se necesita meditar si los clientes satisficieron las necesidades con la compra del producto, en dónde se pueden hacer correcciones, quiénes son la competencia y en qué momento del Customer Journey los clientes se retiran. Es vital visualizar estos datos, de lo contrario no se podría hacer un análisis de información profunda de cada uno de los puntos registrados en el mapa. 
+            p Comprender los objetivos del negocio en general. Se necesita meditar si los clientes satisficieron las necesidades con la compra del producto, en dónde se pueden hacer correcciones, quiénes son la competencia y en qué momento del <i>Customer Journey</i> los clientes se retiran. Es vital visualizar estos datos, de lo contrario no se podría hacer un análisis de información profunda de cada uno de los puntos registrados en el mapa. 
 
     Separador 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -584,7 +584,7 @@
       .col-lg-4
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img64.png', alt='')                  
       .col-lg-8
-        p(data-aos="fade-down") Quijano (2018) expresa que el cliente digital, también conocido como cliente 2.0, es el perfil de comprador web que ejecuta buena parte de sus compras a través de internet. Aunque, en ocasiones, no termine comprando de forma digital. Posee unas características específicas, como, por ejemplo, tener un ciclo de compra que pasa por la revisión de muchos datos antes de darle clic al botón de comprar y tener unas necesidades muy concretas y personalizadas; estas necesidades deben ser enfocadas por las empresas en los procesos de venta, servicio y atención al cliente. Las siguientes son algunas de las principales características del cliente digital: 
+        p(data-aos="fade-down") Quijano (2018) expresa que el cliente digital, también conocido como cliente 2.0, es el perfil de comprador <i>web</i> que ejecuta buena parte de sus compras a través de internet. Aunque, en ocasiones, no termine comprando de forma digital. Posee unas características específicas, como, por ejemplo, tener un ciclo de compra que pasa por la revisión de muchos datos antes de darle clic al botón de comprar y tener unas necesidades muy concretas y personalizadas; estas necesidades deben ser enfocadas por las empresas en los procesos de venta, servicio y atención al cliente. Las siguientes son algunas de las principales características del cliente digital: 
 
     TabsA.color-acento-contenido.mb-5
       .tarjeta.color-acento-botones.p-4(titulo="Se informa antes")
@@ -609,7 +609,7 @@
         .row
           .col-lg-8.mb-4.mb-lg-0
             h4 Es riguroso y exigente 
-            p Desea que la atención sea buena, personalizada y rápida. No es de los que esperan y si en algunos clics no consigue lo que necesita se irá pronto a otro sitio web. 
+            p Desea que la atención sea buena, personalizada y rápida. No es de los que esperan y si en algunos clics no consigue lo que necesita se irá pronto a otro sitio <i>web</i>. 
           .col-lg-4
             figure
               img(src='@/assets/curso/temas/img67.png', style="width: 350px").m-auto  
@@ -636,7 +636,7 @@
         .row
           .col-lg-8.mb-4.mb-lg-0
             h4 Socializa 
-            p Le gusta compartir sus experiencias, bien sea a través de las redes sociales, un blog o el Whatsapp. Viraliza lo que le gusta de una marca, especialmente cuando tiene experiencias significativas. Pero si siente algo malo por parte de la marca (servicio, atención, garantía, etc.), también lo hará saber. 
+            p Le gusta compartir sus experiencias, bien sea a través de las redes sociales, un blog o el <i>whatsapp</i>. Viraliza lo que le gusta de una marca, especialmente cuando tiene experiencias significativas. Pero si siente algo malo por parte de la marca (servicio, atención, garantía, etc.), también lo hará saber. 
           .col-lg-4
             figure
               img(src='@/assets/curso/temas/img70.png', style="width: 350px").m-auto  
@@ -654,7 +654,7 @@
         .row
           .col-lg-8.mb-4.mb-lg-0
             h4 Interacción 
-            p Tiene interacción tanto online como offline. Es posible que busque un producto de manera presencial para luego comprando por la web, o viceversa. 
+            p Tiene interacción tanto online como offline. Es posible que busque un producto de manera presencial para luego comprando por la <i>web</i>, o viceversa. 
           .col-lg-4
             figure
               img(src='@/assets/curso/temas/img72.png', style="width: 350px").m-auto
@@ -702,7 +702,7 @@
               .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/img77.png')
               .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-2
               .tarjeta-foto-hover__tarjeta.bg-degrade3.d-flex.align-items-center.justify-content-center
-                .p-4.text-center
+                .p-2.text-center
                   img.img-a.img-t.mb-3(src='@/assets/curso/temas/img85.png', alt='')
                   p.mb-0 Utilizar los datos para conocer qué quiere el cliente. La analítica ayuda para tener un rastro digital porque entrega información importantísima para mejorar la forma de acercarse y comunicarse con el cliente.
           .col-lg-3.mb-3
@@ -751,7 +751,7 @@
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
-    p(data-aos="fade-down").mb-5 En el ecosistema digital se encuentran todas aquellas aplicaciones disponibles en internet y que pueden ser usadas por las marcas para tramitar sus actividades a través de la web. El correo electrónico, sitio web, redes sociales, chat, blog, foro, ofimática y CRM son algunos de los ejemplos. 
+    p(data-aos="fade-down").mb-5 En el ecosistema digital se encuentran todas aquellas aplicaciones disponibles en internet y que pueden ser usadas por las marcas para tramitar sus actividades a través de la <i>web</i>. El correo electrónico, sitio <i>web</i>, redes sociales, chat, blog, foro, ofimática y CRM son algunos de los ejemplos. 
 
     .row.justify-content-center.align-items-center.mb-5.bg10.p-4           
       .col-lg-6
@@ -806,7 +806,7 @@
             h4.mb-3 Basados en la nube.
             p.mb-0 Hace referencia a aplicaciones que residen en la nube y se puede acceder a ellas sin importar en dónde se encuentre y desde cualquier dispositivo que tenga conexión a internet. Por lo tanto, no necesitan instalarse y se conservan actualizadas de forma permanente, sin necesidad de tener que descargar archivos o realizar alguna operación adicional. Otro beneficio es el respaldo porque toda la información queda almacenada en servidores externos. Se puede estar seguro que no se pierde la información, aunque el equipo sufra un accidente o se lo roben. 
     .pt-1
-    p(data-aos="fade-down").my-5.pt-5 El ecosistema digital es el favorito de muchas marcas porque les permite trabajar a distancia, no tener que instalar ningún software o aplicación y, además, acceder a la información cuando se desee, la cual está protegida en la web.
+    p(data-aos="fade-down").my-5.pt-5 El ecosistema digital es el favorito de muchas marcas porque les permite trabajar a distancia, no tener que instalar ningún <i>software</i> o aplicación y, además, acceder a la información cuando se desee, la cual está protegida en la <i>web</i>.
 
     .row.justify-content-start.align-items-center.mb-5         
       .col-lg-4
@@ -819,9 +819,9 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-9
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg13")
-          .row(titulo="Sitio web")
+          .row(titulo="Sitio <i>web</i>")
             .col-md-8.mb-4.mb-md-0
-              p Casi todos los ecosistemas digitales se centran primordialmente en el sitio web de una marca, por lo que es imperativo poner mucho cuidado en esta herramienta. Es vital tener una buena organización del contenido, criterios unificados en el diseño y un impacto visual en el cliente. En el tema del contenido, se debe definir qué tipo de información se desea compartir a los clientes y cómo atraer su atención.
+              p Casi todos los ecosistemas digitales se centran primordialmente en el sitio <i>web</i> de una marca, por lo que es imperativo poner mucho cuidado en esta herramienta. Es vital tener una buena organización del contenido, criterios unificados en el diseño y un impacto visual en el cliente. En el tema del contenido, se debe definir qué tipo de información se desea compartir a los clientes y cómo atraer su atención.
             .col-md-4
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img102.png', alt='') 
           .row(titulo="Branding/Marca")
@@ -831,12 +831,12 @@
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img104.png', alt='') 
           .row(titulo="Objetivos")
             .col-md-8.mb-4.mb-md-0
-              p Cualquiera que sea el proyecto se requiere contar con objetivos precisos y bien establecidos. En el #[i marketing] digital, por lo general, se establecen objetivos puntuales como, por ejemplo, diseñar una pauta publicitaria, mejorar la presencia web y la visibilidad, aumentar la tasa de conversión, definir la imagen para la marca, fidelizar el público objetivo o incrementar las ventas. 
+              p Cualquiera que sea el proyecto se requiere contar con objetivos precisos y bien establecidos. En el #[i marketing] digital, por lo general, se establecen objetivos puntuales como, por ejemplo, diseñar una pauta publicitaria, mejorar la presencia <i>web</i> y la visibilidad, aumentar la tasa de conversión, definir la imagen para la marca, fidelizar el público objetivo o incrementar las ventas. 
             .col-md-4
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img105.png', alt='') 
           .row(titulo="Medios digitales y otros dispositivos")
             .col-md-8.mb-4.mb-md-0
-              p Otro factor importante para poder tener un ecosistema digital son los medios electrónicos a través de los cuales la marca tendrá presencia, como, por ejemplo, el sitio web, blog, correo electrónico, redes sociales y demás aplicaciones. Hay que analizar cuáles son los dispositivos a través de los cuales los clientes acceden, y, por otro lado, tener un excelente CRM (Customer Relationship Management) para que la empresa pueda gestionar su relación con los clientes. 
+              p Otro factor importante para poder tener un ecosistema digital son los medios electrónicos a través de los cuales la marca tendrá presencia, como, por ejemplo, el sitio <i>web</i>, blog, correo electrónico, redes sociales y demás aplicaciones. Hay que analizar cuáles son los dispositivos a través de los cuales los clientes acceden, y, por otro lado, tener un excelente CRM (<i>Customer Relationship Management</i>) para que la empresa pueda gestionar su relación con los clientes. 
             .col-md-4
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img106.png', alt='') 
           .row(titulo="SEO")
@@ -849,7 +849,7 @@
               p La estructura SEM (posicionamiento a través de campañas publicitarias) se desarrolla para públicos más específicos creando anuncios atractivos pagados, con los que es posible alcanzar los primeros lugares en los buscadores de internet. 
             .col-md-4
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img108.png', alt='') 
-          .row(titulo="Analítica web")
+          .row(titulo="Analítica <i>web</i>")
             .col-md-8.mb-4.mb-md-0
               p Hacer una medición de la gestión digital de la marca es un principio básico para poder comprender los distintos panoramas que se pueden exhibir. Es otra estrategia de #[i marketing] digital que entrega indicadores necesarios para la toma de decisiones y, posteriormente, desarrollar un plan de mejoramiento para continuar creciendo.
               ul.lista-ul--color
@@ -868,6 +868,21 @@
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img109.png', alt='')                     
       .col-lg-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img103.svg', alt='')
+
+    .row.justify-content-start.align-items-center.mb-5         
+      .col-lg-4
+        .list.bg2(data-aos="fade-down")
+          .list__item
+            .list__item__icon
+              img(src='@/assets/curso/temas/v.svg', alt='')
+          .list__txt
+            h3.mb-0.mt-1 Creación de un ecosistema digital
+
+    .row.justify-content-center.align-items-center.mb-2           
+      .col-lg-2.my-3 
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/186.svg', alt='')   
+      .col-lg-10.my-3
+        p(data-aos="fade-down") Para la creación de un ecosistema digital se requiere seguir una sucesión de fases que enlazan el diseño de un plan, la toma de decisiones, el establecimiento de objetivos y la inclusión de todas las áreas que posibilitan el desarrollo de una campaña digital de mercadeo. Las fases son las siguientes: 
 
     .tarjeta.tarjeta--gris.p-4.mb-5.bg13
       LineaTiempoC.color-acento-contenido(text-small)(data-aos="fade-right")
