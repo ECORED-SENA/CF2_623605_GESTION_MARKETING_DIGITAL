@@ -749,7 +749,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure.p-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/T8R9m9ZTcMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
     p(data-aos="fade-down").mb-5 En el ecosistema digital se encuentran todas aquellas aplicaciones disponibles en internet y que pueden ser usadas por las marcas para tramitar sus actividades a través de la <i>web</i>. El correo electrónico, sitio <i>web</i>, redes sociales, chat, blog, foro, ofimática y CRM son algunos de los ejemplos. 
 
