@@ -71,7 +71,7 @@
             .col
               h4.mb-0.bgtex Paso 2      
               h5.mb-0 Recopilar más datos sobre los clientes.
-              .col-md-3.borde
+              .col-5.borde
               
           p(data-aos="fade-down").mb-5 Se debe comenzar con la recopilación (online y offline) de todo lo que se pueda sobre los clientes.
 
@@ -110,16 +110,16 @@
                     img(src="@/assets/curso/temas/img130.png", alt="alt")
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-10
-          .row.justify-content-center.align-items-center.mb-5           
+          .row.align-items-center      
             .col-lg-10
-              .row.align-items-center.mb-3(data-aos="zoom-in")
+              .row.align-items-center(data-aos="zoom-in")
                 .col-auto.mb-2
                   figure
                     img(src="@/assets/curso/temas/img136.svg", alt="alt")
                 .col
                   h4.mb-0.bgtex Paso 3      
                   h5.mb-0 Construir el <i>Buyer</i> Persona
-                  .col-md-3.borde
+                  .col-5.borde
                   
           .row.justify-content-center.align-items-center.mb-5           
             .col-lg-8
@@ -129,16 +129,16 @@
             .col-lg-4
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img131.png', alt='')  
 
-          .row.justify-content-center.align-items-center.mb-5           
+          .row.align-items-center          
             .col-lg-10
-              .row.align-items-center.mb-3(data-aos="zoom-in")
+              .row.align-items-center(data-aos="zoom-in")
                 .col-auto.mb-2
                   figure
                     img(src="@/assets/curso/temas/img137.svg", alt="alt")
                 .col
                   h4.mb-0.bgtex Paso 4      
                   h5.mb-0 Concretar la estrategia y los puntos clave.
-                  .col-md-3.borde
+                  .col-6.borde
                   
           .row.justify-content-center.align-items-center.mb-5           
             .col-lg-8
@@ -146,16 +146,16 @@
             .col-lg-4
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img132.png', alt='') 
 
-          .row.justify-content-center.align-items-center.mb-5           
+          .row.align-items-center     
             .col-lg-10
-              .row.align-items-center.mb-3(data-aos="zoom-in")
+              .row.align-items-center(data-aos="zoom-in")
                 .col-auto.mb-2
                   figure
                     img(src="@/assets/curso/temas/img138.svg", alt="alt")
                 .col
                   h4.mb-0.bgtex Paso 5      
                   h5.mb-0 Usar mecanismos de retroalimentación.
-                  .col-md-3.borde
+                  .col-6.borde
                   
           .row.justify-content-center.align-items-center.mb-5           
             .col-lg-8
@@ -308,9 +308,9 @@
               p.mb-0 Qué contenidos usa 
 
     .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-4      
+      .col-lg-4.my-3      
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img154.png', alt='')
-      .col-lg-8
+      .col-lg-8.my-3
         p(data-aos="fade-down") Las respuestas van a permitir la compresión sobre cómo hacer la búsqueda y la atracción de los prospectos perfectos para nutrir el embudo de ventas. Existen distintas estrategias para responder estas preguntas y normalmente se usan plataformas de analítica, de investigación de palabras claves y de escucha social. Pero, lo más importante para comenzar es la definición de quién es el cliente, lo que no se soluciona con una plataforma tecnológica sino con un proceso de “lluvia de ideas” que se llama “análisis del <i>buying</i> Persona” que ayuda a representar y a modelar al potencial cliente.
         .row.justify-content-start.align-items-center.bg18.p-1    
           .col-lg-10.col-md-10.up.col-sm-12
@@ -322,14 +322,69 @@
 
     .row.justify-content-center.align-items-center.mb-2           
       .col-lg-2.my-3 
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img4.svg', alt='')   
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/186.png', alt='')   
       .col-lg-10.my-3
         p(data-aos="fade-down") Ahora bien, existen herramientas gratuitas de analítica, como, por ejemplo, #[b #[i Google Data Studio o Google Anatytics]], con las que se puede entender el perfil de los clientes reales que visitan y compran en el sitio web para luego crear el <i>Buyer</i> Persona. De esta manera su creación está basada en datos reales. 
 
     p(data-aos="fade-down").mb-5 Con estas herramientas se pueden observar puntos clave relativos a la audiencia según datos como: 
-    .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-10
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img156.svg', alt='')
+    .row.justify-content-center.align-items-center.my-5.pt-5           
+      .col-lg-10.pt-5
+        .tarjeta.position-relative.rounded-0.bg21.p-4(data-aos="flip-down")
+          .row.justify-content-center.align-items-center
+            .col-lg-6
+              .imagen-absolute1
+                img(data-aos="zoom-in")(src='@/assets/curso/temas/188.png', alt='')
+            .col-lg-6.my-3
+              .row.justify-content-center.align-items-center          
+                .col-lg-6.col-md-6            
+                  .list.mb-3(data-aos="fade-down")
+                    .list__item
+                      .list__item__icon
+                        img(src='@/assets/curso/temas/v7.png', alt='')
+                    .list__txt
+                      p.mb-0 Ubicación.
+
+                  .list.mb-3(data-aos="fade-down")
+                    .list__item
+                      .list__item__icon
+                        img(src='@/assets/curso/temas/v8.png', alt='')
+                    .list__txt
+                      p.mb-0 Demografía.
+
+                  .list.mb-3(data-aos="fade-down")
+                    .list__item
+                      .list__item__icon
+                        img(src='@/assets/curso/temas/v9.png', alt='')
+                    .list__txt
+                      p.mb-0 Dispositivos.
+
+                  .list.mb-0(data-aos="fade-down")
+                    .list__item
+                      .list__item__icon
+                        img(src='@/assets/curso/temas/v10.png', alt='')
+                    .list__txt
+                      p.mb-0 Intereses.
+                .col-lg-6.col-md-6            
+                  .list.mb-3(data-aos="fade-down")
+                    .list__item
+                      .list__item__icon
+                        img(src='@/assets/curso/temas/v11.png', alt='')
+                    .list__txt
+                      p.mb-0 Fuentes de adquisición.
+
+                  .list.mb-3(data-aos="fade-down")
+                    .list__item
+                      .list__item__icon
+                        img(src='@/assets/curso/temas/v12.png', alt='')
+                    .list__txt
+                      p.mb-0 Prototipo de cliente.
+
+                  .list.mb-0(data-aos="fade-down")
+                    .list__item
+                      .list__item__icon
+                        img(src='@/assets/curso/temas/v13.png', alt='')
+                    .list__txt
+                      p.mb-0 Retención y segmentos.
 
     p(data-aos="fade-down").mb-5 Estas herramientas entregan una plantilla con los datos hallados, que en diseño, puede ser muy parecida a una infografía, es descriptiva y se puede personalizar el texto para añadir observaciones sobre la información y, obviamente, crear los perfiles de clientes. Estos reportes o informes, posteriormente servirán para la creación del <i>Buyer</i> Persona. Incluso, se puede deducir cuáles con las frases y palabras clave usadas para la búsqueda en Google y con ello, configurar y administrar campañas de Google <i>ads</i> y SEO. De esta forma, y tras buscar en Google, se puede lograr que el sitio web le brinde información que pueda resolver sus necesidades y, al invitarlo a visitar el sitio, se puede continuar con la conversión. El objetivo es atraer a ese “extraño” para convertirlo en cliente actual (Beltrán, Ledesma, & Parrales, 2019).
 
@@ -425,13 +480,13 @@
               h5.mb-0.text-small Disminuir la inversión en mercadeo y publicidad.
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-6
+      .col-auto
         .list.bg2(data-aos="fade-down")
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/v.svg', alt='')
           .list__txt
-            h3.mb-0.mt-1 Ejemplos de KPIs para medir la Experiencia de Clientes
+            h3.mb-0.mt-1.pe-3 Ejemplos de KPIs para medir la Experiencia de Clientes
 
     p(data-aos="fade-down").mb-5 Existen diferentes KPI de CX, pero, algunos son más importantes que otros porque brindan datos valiosos para las marcas. Son métrica llamadas Customer Service que toda empresa debería considerar en su estrategia de análisis y medición:
 
@@ -514,18 +569,18 @@
 
     .row.justify-content-center.align-items-center.mb-2           
       .col-lg-2.my-3 
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img4.svg', alt='')   
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/187.png', alt='')   
       .col-lg-10.my-3
         p(data-aos="fade-down") Como se puede observar, los KPI de CX son vitales para que una empresa crezca. Si no se tiene una idea clara de cómo están funcionando las estrategias, sus planes de acción y, en general, la empresa, de nada va a servir la implementación de nuevas tecnologías para la atención al cliente, para mejorar los servicios o para el diseño de una excelente estrategia de marketing. La aplicación de estos indicadores ayudará a la empresa a conocer si va en el camino correcto o si debe desarrollar un plan de mejoramiento. (Pozo, 2018) 
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-7
+      .col-auto
         .list.bg2(data-aos="fade-down")
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/v.svg', alt='')
           .list__txt
-            h3.mb-0.mt-1 Acciones estratégicas de mejora de la experiencia del cliente
+            h3.mb-0.mt-1.pe-3 Acciones estratégicas de mejora de la experiencia del cliente
             
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-4      

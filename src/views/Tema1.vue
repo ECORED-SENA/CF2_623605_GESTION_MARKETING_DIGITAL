@@ -44,13 +44,13 @@
         p.p-4(data-aos="fade-down").mb-0 El cliente actual no compra productos, compra experiencias que se materializan a través de ellos.
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-5
+      .col-auto
         .list.bg2(data-aos="fade-down")
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/v.svg', alt='')
           .list__txt
-            h3.mb-0.mt-1 Beneficios de la experiencia de cliente 
+            h3.mb-0.mt-1.pe-3 Beneficios de la experiencia de cliente 
 
     p(data-aos="fade-down").mb-5 Al tener una visión del <i>Customer Journey</i> y la gestión de las interacciones con la marca por parte del cliente se puede administrar y mejorar su experiencia. Los siguientes son algunos de los beneficios para las marcas:    
 
@@ -101,13 +101,13 @@
         img.img-a2(src='@/assets/componentes/rectangulo.svg')
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-5
+      .col-auto
         .list.bg2(data-aos="fade-down")
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/v.svg', alt='')
           .list__txt
-            h3.mb-0.mt-1 Los pilares de la Experiencia de Cliente
+            h3.mb-0.mt-1.pe-3 Los pilares de la Experiencia de Cliente
 
     p(data-aos="fade-down").mb-5 Para desarrollar un trabajo que logre beneficios para la marca es primordial tener claros los momentos en los que se apoya el CX. Una empresa tiene que ser precisa en su estrategia, consintiendo que dentro de ella se reconozcan algunas características claves como se pueden identificar en el siguiente recurso:
 
@@ -303,13 +303,13 @@
                   p.mb-0 Poder evaluar el retorno de la inversión (ROI) de futuras inversiones en la Experiencia del usuario y del cliente.
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-6
+      .col-auto
         .list.bg2(data-aos="fade-down")
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/v.svg', alt='')
           .list__txt
-            h3.mb-0.mt-1 Pasos para crear un mapa de la experiencia del cliente 
+            h3.mb-0.mt-1.pe-3 Pasos para crear un mapa de la experiencia del cliente 
 
     .row.justify-content-center.align-items-center.mb-2           
       .col-lg-2.my-3 
@@ -319,7 +319,7 @@
 
         p(data-aos="fade-down") Se puede diseñar un mapa de la UX siguiendo estos pasos: 
 
-    .tarjeta.tarjeta--gris.p-4.mb-5.bg6
+    .tarjeta.p-4.mb-5.bg6
       LineaTiempoC.color-acento-contenido(text-small)(data-aos="fade-right")
         .row.justify-content-lg-center.align-items-start(titulo="Paso 1")
           .col-md-4.col-10
@@ -404,27 +404,27 @@
         p.p-4(data-aos="fade-down").mb-0 Siempre se debe seguir un plan de comunicación poderoso, sin importar si el cliente llega a la marca porque posee algún problema con ella o porque solicita asesoría en una compra. Una estrategia de comunicación con el cliente, diseñada de forma oportuna, puede fidelizarlo, además de agregarle valor para la marca.
 
     .row.justify-content-start.align-items-center.mb-5.pt-5           
-      .col-lg-9
+      .col-auto
         .list.bg2(data-aos="fade-down")
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/v.svg', alt='')
           .list__txt
-            h3.mb-0.mt-1 Pasos para diseñar una estrategia de comunicación comercial efectiva con el cliente
+            h3.mb-0.mt-1.pe-3 Pasos para diseñar una estrategia de comunicación comercial efectiva con el cliente
 
     p(data-aos="fade-down").mb-5 Una estrategia de comunicación con el cliente es una ruta de navegación que formula cómo planear la transmisión de un mensaje específico al cliente objetivo por medio de distintos canales. Los tres (3) factores primordiales a tener en cuenta siempre en una estrategia de comunicación con el cliente son: 
              
     .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-5 
+      .col-lg-5.my-3 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img46.svg', alt='')            
-      .col-lg-5             
+      .col-lg-5.my-3             
         .row.mb-3.justify-content-center
           .col-12.col-lg-12.mb-3.h-100(data-aos="zoom-in")
             .row.bg5
               .col-3.px-0.align-items-center
                 figure
-                  img(src='@/assets/curso/temas/img47.svg', alt='')
-              .col-9.align-items-center.p-3
+                  img.img-t(src='@/assets/curso/temas/img47.svg', alt='')
+              .col-9.align-items-center.p-3.ps-0
                 div
                   h5 Mensaje:
                   p.mb-0 Qué se quiere comunicar.
@@ -433,8 +433,8 @@
             .row.bg5
               .col-3.px-0.align-items-center
                 figure
-                  img(src='@/assets/curso/temas/img48.svg', alt='')
-              .col-9.align-items-center.p-3
+                  img.img-t(src='@/assets/curso/temas/img48.svg', alt='')
+              .col-9.align-items-center.p-3.ps-0
                 div
                   h5 Objetivo:  
                   p.mb-0 A quién se le desea comunicar.
@@ -443,28 +443,28 @@
             .row.bg5
               .col-3.px-0.align-items-center
                 figure
-                  img(src='@/assets/curso/temas/img49.svg', alt='')
-              .col-9.align-items-center.p-3
+                  img.img-t(src='@/assets/curso/temas/img49.svg', alt='')
+              .col-9.align-items-center.p-3.ps-0
                 div
                   h5 Medio:  
                   p.mb-0 A través de qué canales se desea comunicar.
 
     .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-4
+      .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img50.png', alt='')            
-      .col-lg-8
+      .col-lg-8.my-3
         p(data-aos="fade-down") Para que la #[b comunicación sea un éxito, los tres (3) factores se deben complementar entre sí.] Luego de concretar al público meta, de tener claro cuál es el mensaje que se desea enviar y de saber qué canales de comunicación usar, se continúa con la estrategia de comunicación, lo que integra la decisión sobre cómo se divulgarán los productos, cómo administrar la comunicación con los clientes a través de los canales elegidos para interactuar con los clientes, cuál será el lenguaje que la marca va a acoger y cuál será la dirección para lograr la satisfacción de las necesidades de los clientes.
 
         p(data-aos="fade-down") #[b Poseer un plan de comunicación estratégico es vital para que el mensaje se pueda transmitir de forma eficiente y precisa], que impida preocupaciones futuras. Es así como se pueden prever las dificultades y problemáticas que puedan aparecer en el camino. 
 
     .row.justify-content-start.align-items-center.mb-5.pt-5           
-      .col-lg-6
+      .col-auto
         .list.bg2(data-aos="fade-down")
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/v.svg', alt='')
           .list__txt
-            h3.mb-0.mt-1 Cómo tener una comunicación efectiva con el cliente
+            h3.mb-0.mt-1.pe-3 Cómo tener una comunicación efectiva con el cliente
 
     p(data-aos="fade-down").mb-5 Tener una comunicación efectiva hace parte de la satisfacción del cliente y por eso, se debe certificar que se haga realidad. Los siguientes son algunas recomendaciones para lograrlo: 
 
@@ -731,13 +731,13 @@
                   p.mb-0 Ser siempre una marca honesta y transparente.
 
     .row.justify-content-start.align-items-center.mb-5.pt-5           
-      .col-lg-3
+      .col-auto
         .list.bg2(data-aos="fade-down")
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/v.svg', alt='')
           .list__txt
-            h3.mb-0.mt-1 El ecosistema digital 
+            h3.mb-0.mt-1.pe-3 El ecosistema digital 
 
     .row.justify-content-center.align-items-center.mb-2           
       .col-lg-2.my-3 
@@ -809,13 +809,13 @@
     p(data-aos="fade-down").my-5.pt-5 El ecosistema digital es el favorito de muchas marcas porque les permite trabajar a distancia, no tener que instalar ningún <i>software</i> o aplicación y, además, acceder a la información cuando se desee, la cual está protegida en la <i>web</i>.
 
     .row.justify-content-start.align-items-center.mb-5         
-      .col-lg-4
+      .col-auto
         .list.bg2(data-aos="fade-down")
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/v.svg', alt='')
           .list__txt
-            h3.mb-0.mt-1 Elementos de un ecosistema digital
+            h3.mb-0.mt-1.pe-3 Elementos de un ecosistema digital
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-9
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg13")
@@ -866,17 +866,17 @@
                   p.mb-0 ¿Hay algo que pueda tener un cambio para mejorar?                
             .col-md-4
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img109.png', alt='')                     
-      .col-lg-3
+      .col-lg-3.d-none.d-lg-block
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img103.svg', alt='')
 
     .row.justify-content-start.align-items-center.mb-5         
-      .col-lg-4
+      .col-auto
         .list.bg2(data-aos="fade-down")
           .list__item
             .list__item__icon
               img(src='@/assets/curso/temas/v.svg', alt='')
           .list__txt
-            h3.mb-0.mt-1 Creación de un ecosistema digital
+            h3.mb-0.mt-1.pe-3 Creación de un ecosistema digital
 
     .row.justify-content-center.align-items-center.mb-2           
       .col-lg-2.my-3 
@@ -887,31 +887,31 @@
     .tarjeta.tarjeta--gris.p-4.mb-5.bg13
       LineaTiempoC.color-acento-contenido(text-small)(data-aos="fade-right")
         .row.justify-content-lg-center.align-items-start(titulo="Paso 1")
-          .col-md-4.col-10
+          .col-lg-4.col-md-12.my-3
             figure
               img(src='@/assets/curso/temas/img110.png')
-          .col-md-7.col-10.mb-4.mb-md-0
+          .col-lg-7.col-md-12.mb-4.mb-md-0.my-3
             h4.mt-3 Fase 1: Elige el tipo de ecosistema utilizado  
             p Se hace definición de cuáles son los colectivos que van a participar en el proceso, según los distintos tipos de ecosistemas que se logren desarrollar. Por ejemplo, empresas (fabricantes, proveedoras, distribuidoras); líderes, los creativos de una empresa; productos o servicios; segmentos de clientes.         
         .row.justify-content-lg-center.align-items-start(titulo="Paso 2")
-          .col-md-4.col-10
+          .col-lg-4.col-md-12.my-3
             figure
               img(src='@/assets/curso/temas/img111.png')
-          .col-md-7.col-10.mb-4.mb-md-0
+          .col-lg-7.col-md-12.mb-4.mb-md-0.my-3
             h4.mt-3 Fase 2: Organiza el entorno laboral  
             p Para enfrentar los cambios, es necesario contar con un entorno laboral en el que todo el equipo de trabajo se encuentre alineado y enfocado al logro de resultados. Resulta fundamental para poder desarrollar una estrategia digital con un mismo hilo conductor. Parte de construir el entorno ideal, también depende de la inversión que haga la empresa en nuevas tecnologías que permitan adentrarse en el mundo digital de constante evolución.
         .row.justify-content-lg-center.align-items-start(titulo="Paso 3")
-          .col-md-4.col-10
+          .col-lg-4.col-md-12.my-3
             figure
               img(src='@/assets/curso/temas/img112.png')
-          .col-md-7.col-10.mb-4.mb-md-0
+          .col-lg-7.col-md-12.mb-4.mb-md-0.my-3
             h4.mt-3 Fase 3: Implementa la orientación al cliente  
             p Cultivar las buenas relaciones con los clientes también es un paso importante para poder crear un ecosistema digital. En estos tiempos en los que el mercado es tan competitivo y cambiante, conviene enfocarse en los intereses del cliente. Saber escuchar, proponer soluciones ante sus preocupaciones y cubrir sus necesidades para fidelizarlo a la marca. 
         .row.justify-content-lg-center.align-items-start(titulo="Paso 4")
-          .col-md-4.col-10
+          .col-lg-4.col-md-12.my-3
             figure
               img(src='@/assets/curso/temas/img113.png')
-          .col-md-7.col-10.mb-4.mb-md-0
+          .col-lg-7.col-md-12.mb-4.mb-md-0.my-3
             h4.mt-3 Fase 4: Promueve agilidad en la gestión  
             p El éxito de un negocio o una marca también depende de la capacidad que tenga de responder con agilidad ante los cambios o retos que se presenten. Para poder crear y mantener un ecosistema digital, es necesario reforzar las capacidades que tenga la empresa y sus empleados de adaptarse a las diferentes exigencias del mercado, que a su vez están alineadas a las necesidades y gustos de los clientes o consumidores.                         
 </template>
