@@ -179,46 +179,46 @@
     p(data-aos="fade-down").mb-5 El mapa se basa por lo general en un cronograma de actividades (puntos o momentos de contacto), como, por ejemplo:
 
     .row.mb-5.justify-content-center
-      .col-12.col-lg-4.mb-3.h-100(data-aos="zoom-in")
+      .col-12.col-lg-4.mb-3.h-100.esp(data-aos="zoom-in")
         .row.bg5
-          .col-3.px-0.align-items-center
+          .col-3.px-0.align-items-center.bg5_1
             figure
               img(src='@/assets/curso/temas/img23.svg', alt='')
-          .col-9.align-items-center.p-3
+          .col-9.align-items-center.p-3.just
             div
               p.mb-0 La primera vez que llegó al sitio <i>web</i>. 
-      .col-12.col-lg-4.mb-3.h-100(data-aos="zoom-in")
+      .col-12.col-lg-4.mb-3.h-100.esp(data-aos="zoom-in")
         .row.bg5
-          .col-3.px-0.align-items-center
+          .col-3.px-0.align-items-center.bg5_1
             figure
               img(src='@/assets/curso/temas/img24.svg', alt='')
-          .col-9.align-items-center.p-2
+          .col-9.align-items-center.p-2.just
             div
               p.mb-0 La manera en que progresa hasta tener la primera experiencia con el producto. 
-      .col-12.col-lg-4.mb-3.h-100(data-aos="zoom-in")
+      .col-12.col-lg-4.mb-3.h-100.esp(data-aos="zoom-in")
         .row.bg5
-          .col-3.px-0.align-items-center
+          .col-3.px-0.align-items-center.bg5_1
             figure
               img(src='@/assets/curso/temas/img25.svg', alt='')
-          .col-9.align-items-center.p-3
+          .col-9.align-items-center.p-3.just
             div
               p.mb-0 Continúa con la acción de compra.
 
     .row.mb-5.justify-content-center
-      .col-12.col-lg-4.mb-3.h-100(data-aos="zoom-in")
+      .col-12.col-lg-4.mb-3.h-100.esp(data-aos="zoom-in")
         .row.bg5
-          .col-3.px-0.align-items-center
+          .col-3.px-0.align-items-center.bg5_1
             figure
               img(src='@/assets/curso/temas/img26.svg', alt='')
-          .col-9.align-items-center.p-3
+          .col-9.align-items-center.p-3.just
             div
               p.mb-0 Servicio posventa.
-      .col-12.col-lg-4.mb-3.h-100(data-aos="zoom-in")
+      .col-12.col-lg-4.mb-3.h-100.esp(data-aos="zoom-in")
         .row.bg5
-          .col-3.px-0.align-items-center
+          .col-3.px-0.align-items-center.bg5_1
             figure
               img(src='@/assets/curso/temas/img27.svg', alt='')
-          .col-9.align-items-center.p-3
+          .col-9.align-items-center.p-3.just
             div
               p.mb-0 Correos electrónicos de bienvenida, etc.
 
@@ -420,31 +420,31 @@
       .col-lg-5.my-3             
         .row.mb-3.justify-content-center
           .col-12.col-lg-12.mb-3.h-100(data-aos="zoom-in")
-            .row.bg5
-              .col-3.px-0.align-items-center
+            .row.justify-content-start
+              .col-2.p-0.bg5_1
                 figure
-                  img.img-t(src='@/assets/curso/temas/img47.svg', alt='')
-              .col-9.align-items-center.p-3.ps-0
+                  img.img-a.img-t(src='@/assets/curso/temas/img47.svg', alt='')
+              .col-9.p-3.ps-4.bg5
                 div
                   h5 Mensaje:
                   p.mb-0 Qué se quiere comunicar.
         .row.mb-3.justify-content-center
           .col-12.col-lg-12.mb-3.h-100(data-aos="zoom-in")
-            .row.bg5
-              .col-3.px-0.align-items-center
+            .row.justify-content-start
+              .col-2.p-0.bg5_1
                 figure
-                  img.img-t(src='@/assets/curso/temas/img48.svg', alt='')
-              .col-9.align-items-center.p-3.ps-0
+                  img.img-a.img-t(src='@/assets/curso/temas/img48.svg', alt='')
+              .col-9.p-3.ps-4.bg5
                 div
                   h5 Objetivo:  
                   p.mb-0 A quién se le desea comunicar.
         .row.mb-3.justify-content-center
           .col-12.col-lg-12.mb-3.h-100(data-aos="zoom-in")
-            .row.bg5
-              .col-3.px-0.align-items-center
+            .row.justify-content-start
+              .col-2.p-0.bg5_1
                 figure
-                  img.img-t(src='@/assets/curso/temas/img49.svg', alt='')
-              .col-9.align-items-center.p-3.ps-0
+                  img.img-a.img-t(src='@/assets/curso/temas/img49.svg', alt='')
+              .col-9.p-3.ps-4.bg5
                 div
                   h5 Medio:  
                   p.mb-0 A través de qué canales se desea comunicar.

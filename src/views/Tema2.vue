@@ -163,11 +163,11 @@
             .col-lg-4
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img133.png', alt='')
               
-    Separador 
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 2.1 Tipos de perfiles
+      Separador 
+      #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+        h2 2.1 Tipos de perfiles
 
-    p(data-aos="fade-down").mb-5 Los tipos de perfiles del <i>Buyer</i> Persona pueden ser agrupados según sea su participación en el proceso de una compra. Los siguientes tres perfiles se destacan por sus diferentes roles y comportamientos así:
+      p(data-aos="fade-down").mb-5 Los tipos de perfiles del <i>Buyer</i> Persona pueden ser agrupados según sea su participación en el proceso de una compra. Los siguientes tres perfiles se destacan por sus diferentes roles y comportamientos así:
 
     .row.justify-content-center.align-items-stretch.mb-3          
       .col-lg-4.my-3
@@ -228,7 +228,7 @@
       .col-lg-8
         p(data-aos="fade-down") Según Beltrán, Ledesma, y Parrales (2019) la estrategia de venta falla estrepitosamente cuando las empresas no definen su <i>Buyer</i> Persona. Es por esto que su definición puede lograr la diferencia entre una estrategia positiva y una fracasada. Uno de los errores del mercadeo digital consiste en pensar que el mensaje va a cautivar a todos los clientes, cuando realmente la efectividad se logra conociendo perfectamente los prospectos reales. 
         .row.justify-content-start.align-items-center    
-          .col-lg-10.col-md-10.up.col-sm-12
+          .col-lg-10.col-md-12.up.col-sm-12
             p(data-aos="fade-down").mb-0 El análisis realizado sobre el <i>Buyer</i> Persona admite comprender a quién se le habla y cuáles son los métodos precisos y oportunos para conquistarlos. En un mundo digital repleto de información (mucha de ella considerada fake news) es vital comprender cómo captar la atención de los prospectos, cómo hacer que elijan la marca y no la competencia.
 
         .tarjeta.position-relative(data-aos="flip-down")
@@ -313,7 +313,7 @@
       .col-lg-8.my-3
         p(data-aos="fade-down") Las respuestas van a permitir la compresión sobre cómo hacer la búsqueda y la atracción de los prospectos perfectos para nutrir el embudo de ventas. Existen distintas estrategias para responder estas preguntas y normalmente se usan plataformas de analítica, de investigación de palabras claves y de escucha social. Pero, lo más importante para comenzar es la definición de quién es el cliente, lo que no se soluciona con una plataforma tecnológica sino con un proceso de “lluvia de ideas” que se llama “análisis del <i>buying</i> Persona” que ayuda a representar y a modelar al potencial cliente.
         .row.justify-content-start.align-items-center.bg18.p-1    
-          .col-lg-10.col-md-10.up.col-sm-12
+          .col-lg-10.col-md-12.up.col-sm-12
             p(data-aos="fade-down").mb-0.px-4 Una vez creado el <i>Buyer</i> Persona, se puede continuar con una estrategia que integre campaña publicitaria, cimentación del sitio web y contenidos digitales. En mercadeo digital, estas tres labores deben dar tiene que ser espectaculares para que se puedan lograr los objetivos pactados.
           .col-lg-2.col-md-10.d-none.d-lg-block  
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img155.svg', alt='') 
