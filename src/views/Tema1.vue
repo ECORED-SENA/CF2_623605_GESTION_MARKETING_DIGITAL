@@ -15,8 +15,8 @@
 
         p(data-aos="fade-down") La experiencia de cliente es la imagen que un cliente posee de las interacciones vividas con una marca. Por eso, las interacciones se pueden producir en distintos momentos de la transacción comercial, como, por ejemplo:
 
-    img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/img3.svg', alt='')  
-
+    img.img-a.img-t.mb-5.d-none.d-lg-block(data-aos="zoom-in")(src='@/assets/curso/temas/img3.svg', alt='')  
+    img.img-a.img-t.mb-5.d-block.d-lg-none(data-aos="zoom-in")(src='@/assets/curso/temas/img3_1.svg', alt='') 
     .row.justify-content-center.align-items-center.mb-2           
       .col-lg-2.my-3 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img4.svg', alt='')   
@@ -234,7 +234,9 @@
         .row.mb-4.mb-md-5(data-aos="fade-down")
           .col-lg-4.mb-3
             .tarjeta.tarjeta-foto-hover
-              .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/img29.png')
+              .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/img29.png' @mouseover="mostrarIndicador = false")
+              .indicador--click(v-if="mostrarIndicador")
+
               .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-2
               .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
                 .p-4.text-center
@@ -341,25 +343,19 @@
               img(src='@/assets/curso/temas/img41.png')
           .col-md-7.col-10.mb-4.mb-md-0
             h4.mt-3 Paso 3: Identificar los puntos de contacto con el cliente.
-            .list.mb-3
-              .list__item
-                .list__item__icon
-                  img(src='@/assets/curso/temas/v2.png', alt='')
-              .list__txt
+            ul.lista-ul
+              li 
+                i.fas.fa-angle-right.color-v
                 p.mb-0 #[b Contacto antes de encontrar tu negocio:] Preguntar al cliente en qué medio encontró la empresa, marca o productos.
 
-            .list.mb-3
-              .list__item
-                .list__item__icon
-                  img(src='@/assets/curso/temas/v2.png', alt='')
-              .list__txt
+            ul.lista-ul
+              li 
+                i.fas.fa-angle-right.color-v
                 p.mb-0 #[b Contacto mientras se encuentran en tu negocio:] Descubrir por qué visitan la empresa (presencial o virtual), la razón, las necesidades que tuvo y el porqué de la compra.
 
-            .list
-              .list__item
-                .list__item__icon
-                  img(src='@/assets/curso/temas/v2.png', alt='')
-              .list__txt
+            ul.lista-ul
+              li 
+                i.fas.fa-angle-right.color-v
                 p.mb-0 #[b Contacto después de comprar en tu negocio:] Conocer cómo fue la experiencia la marca, si pudo solucionar el problema, si fue bueno el servicio al cliente.              
         .row.justify-content-lg-center.align-items-start(titulo="Paso 4")
           .col-md-4.col-10
@@ -666,7 +662,8 @@
         .row.mb-4.mb-md-5(data-aos="fade-down")
           .col-lg-3.mb-3
             .tarjeta.tarjeta-foto-hover
-              .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/img73.png')
+              .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/img73.png' @mouseover="mostrarIndicador = false")
+              .indicador--click(v-if="mostrarIndicador")
               .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-2
               .tarjeta-foto-hover__tarjeta.bg-degrade2.d-flex.align-items-center.justify-content-center
                 .p-4.text-center
@@ -921,7 +918,7 @@ export default {
   name: 'Tema1',
   components: {},
   data: () => ({
-    // variables de vue
+    mostrarIndicador: true,
   }),
   mounted() {
     this.$nextTick(() => {
