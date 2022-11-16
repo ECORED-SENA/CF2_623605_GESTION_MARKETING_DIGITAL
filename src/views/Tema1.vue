@@ -234,7 +234,8 @@
         .row.mb-4.mb-md-5(data-aos="fade-down")
           .col-lg-4.mb-3
             .tarjeta.tarjeta-foto-hover
-              .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/img29.png')
+              .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/img29.png' @mouseover="mostrarIndicador = false")
+              .indicador--click(v-if="mostrarIndicador")
               .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-2
               .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
                 .p-4.text-center
