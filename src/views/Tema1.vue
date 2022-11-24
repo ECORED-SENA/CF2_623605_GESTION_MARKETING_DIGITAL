@@ -654,7 +654,7 @@
             figure
               img(src='@/assets/curso/temas/img72.png', style="width: 350px").m-auto
 
-    p(data-aos="fade-down").mb-5 Con base en los siguientes datos las marcas tienen que ajustar sus estrategias de venta y atención al cliente hacia nuevas opciones de interacción, de tal manera que se fortalezca el negocio y el <i>engagement</i>: 
+    p(data-aos="fade-down").mb-5 Con base en los siguientes datos, las marcas tienen que ajustar sus estrategias de venta y atención al cliente hacia nuevas opciones de interacción, de tal manera que se fortalezca el negocio y el <i>engagement</i>: 
 
     .row.justify-content-center
       .col-lg-12
