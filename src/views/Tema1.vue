@@ -11,7 +11,7 @@
       .col-lg-4      
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img2.svg', alt='')
       .col-lg-8.my-3
-        p(data-aos="fade-down") Álvarez, Marcos (2016) dice que <i>Customer Experience</i> (CX) o la experiencia de cliente es una estrategia que se convirtió en la actualidad en el genuino diferenciador entre los negocios y en una pieza clave del <i>customer centricity</i> o centricidad en el cliente. Es así que personifica una ventaja competitiva única, porque casi todas las ventajas racionales básicas ofrecidas por las marcas, son dadas por parte del cliente como si fueran un hecho. Por esta razón el cliente piensa que el producto es apto para la compra respondiendo a sus necesidades, así como que el producto llegará justo a tiempo y que en caso de tener problemas se le atenderá de la mejor forma. 
+        p(data-aos="fade-down") Álvarez, Marcos (2016) dice que <i>Customer Experience</i> (CX) o la experiencia de cliente es una estrategia que se convirtió en la actualidad en el genuino diferenciador entre los negocios y en una pieza clave del <i>customer centricity</i> o centricidad en el cliente. Es así que personifica una ventaja competitiva única, porque casi todas las ventajas racionales básicas ofrecidas por las marcas, son dadas por parte del cliente como si fueran un hecho. Por esta razón, el cliente piensa que el producto es apto para la compra respondiendo a sus necesidades, así como que el producto llegará justo a tiempo y que en caso de tener problemas se le atenderá de la mejor forma. 
 
         p(data-aos="fade-down") La experiencia de cliente es la imagen que un cliente posee de las interacciones vividas con una marca. Por eso, las interacciones se pueden producir en distintos momentos de la transacción comercial, como, por ejemplo:
 
@@ -21,9 +21,9 @@
       .col-lg-2.my-3 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img4.svg', alt='')   
       .col-lg-10.my-3
-        p(data-aos="fade-down") La experiencia del cliente es la imagen general que tiene el cliente de todos esos momentos durante el <i>Customer Journey</i> (o sea el viaje realizado por el cliente para realizar una acción de compra).
+        p(data-aos="fade-down") La experiencia del cliente es la imagen general que tiene el cliente de todos esos momentos durante el <i>Customer Journey</i> (o sea, el viaje realizado por el cliente para realizar una acción de compra).
 
-        p(data-aos="fade-down").mb-0 Es difícil que las marcas puedan conservar el liderazgo diferenciándose con el producto o a través de su costo, durante mucho tiempo (debido a la competencia). Con la economía a gran escala, la producción industrial y el ahorro de costos es normal que existan marcas que lo hagan igual y más económico. Sin embargo, el cliente supone que están a la orden del día temas relevantes como el servicio, el precio y la calidad. 
+        p(data-aos="fade-down").mb-0 Es difícil que las marcas puedan conservar el liderazgo diferenciándose con el producto o a través de su costo, durante mucho tiempo (debido a la competencia). Con la economía a gran escala, la producción industrial y el ahorro de costos, es normal que existan marcas que lo hagan igual y más económico. Sin embargo, el cliente supone que están a la orden del día temas relevantes como el servicio, el precio y la calidad. 
 
     .row.justify-content-center.align-items-center.mb-5.pt-5           
       .col-lg-10.bg1.p-4.imgs-flotantes.my-3(data-aos="fade-left") 
@@ -34,7 +34,7 @@
       .col-lg-8.my-3
         p(data-aos="fade-down") En cada uno de los momentos de interacción que la marca tiene con el cliente sirven para generar emociones concretas, las cuales se van sumando de a poco hasta lograr una experiencia positiva. Todo tiene que estar perfectamente encadenado. Por ejemplo, es posible que la acción de compra haya sido exitosa, pero en el momento de la asesoría algo falló. Es así como, cada uno de estos momentos irán sumando percepciones hasta lograr una opinión propia, la cual determina la percepción general de cada uno.
 
-        p(data-aos="fade-down") Como se trata de percepciones emocionales, cada cliente siente de forma subjetiva lo que experimentó, y eso termina con la generación de una opinión que evolucionará a un comportamiento. No se debe dejar nada al azar, y para evitar la incertidumbre de percepciones por parte de los clientes, lo ideal es brindar una experiencia de cliente sólida y permanente. Todos los empleados de la empresa que tengan contacto con el cliente deben estar alineados, día a día; igual ocurre con las estrategias y sus planes de acción porque todo debe salir perfecto, sólo así es más fácil de administrar y mejorar (en el momento que sea necesario). No se puede dejar a un lado la individualidad del cliente y su personalización. 
+        p(data-aos="fade-down") Como se trata de percepciones emocionales, cada cliente siente de forma subjetiva lo que experimentó, y eso termina con la generación de una opinión que evolucionará a un comportamiento. No se debe dejar nada al azar, y para evitar la incertidumbre de percepciones por parte de los clientes, lo ideal es brindar una experiencia de cliente sólida y permanente. Todos los empleados de la empresa que tengan contacto con el cliente deben estar alineados, día a día; igual ocurre con las estrategias y sus planes de acción porque todo debe salir perfecto, solo así es más fácil de administrar y mejorar (en el momento que sea necesario). No se puede dejar a un lado la individualidad del cliente y su personalización. 
       .col-lg-4      
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img6.png', alt='')  
 
@@ -52,7 +52,7 @@
           .list__txt
             h3.mb-0.mt-1.pe-3 Beneficios de la experiencia de cliente 
 
-    p(data-aos="fade-down").mb-5 Al tener una visión del <i>Customer Journey</i> y la gestión de las interacciones con la marca por parte del cliente se puede administrar y mejorar su experiencia. Los siguientes son algunos de los beneficios para las marcas:    
+    p(data-aos="fade-down").mb-5 Al tener una visión del <i>Customer Journey</i> y la gestión de las interacciones con la marca por parte del cliente, se puede administrar y mejorar su experiencia. Los siguientes son algunos de los beneficios para las marcas:    
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-right")
       .tarjeta.bg4.p-4.h-100.position-relative.slyderF-media
@@ -87,7 +87,7 @@
           img.img-a.img-t(src='@/assets/curso/temas/img12.png').mx-auto
         
         h4.text-center Gestión de los momentos críticos del servicio
-        p.text-center El CX tiene una ventaja importante, a través del mapa del viaje del cliente se identifican los “Momentos de la verdad” (MoT: moments of truth). Se trata de los momentos que poseen mayor impacto para el cliente y, también, para la marca. Esto permite centrar energías en los procesos más delicados.
+        p.text-center El CX tiene una ventaja importante, a través del mapa del viaje del cliente se identifican los “Momentos de la verdad” (MoT: <i>moments of truth</i>). Se trata de los momentos que poseen mayor impacto para el cliente y, también, para la marca. Esto permite centrar energías en los procesos más delicados.
         img.img-a1(src='@/assets/componentes/circulo.svg')
         img.img-a2(src='@/assets/componentes/rectangulo.svg')
 
@@ -123,7 +123,7 @@
         .row.justify-content-center.align-items-start.p-3
           .col-lg-6.mb-4.mb-md-0
             h4 Lograr impulso organizativo 
-            p Toda la organización es responsable de crear, desarrollar y mantener  una CX,  aunque sí debe existir un responsable, puede ser un gerente comercial o un experto en mercadeo. Es cuando entra en acción la figura del <i>Chief Customer Officer</i>, o sea, quien se responsabiliza de la CX. Es un cargo vital ya que, en la mayor parte de los casos, los negocios deben implementar una estrategia dentro de su cotidianidad. La función principal es el diseño y administración del CX en su versión transversal a través de la empresa. Es quien debe preocuparse por los momentos de la verdad en cada uno de los touchpoint (punto o momentos de contacto) que la marca tenga con el cliente.  
+            p Toda la organización es responsable de crear, desarrollar y mantener  una CX,  aunque sí debe existir un responsable, puede ser un gerente comercial o un experto en mercadeo. Es cuando entra en acción la figura del <i>Chief Customer Officer</i>, o sea, quien se responsabiliza de la CX. Es un cargo vital, ya que, en la mayor parte de los casos, los negocios deben implementar una estrategia dentro de su cotidianidad. La función principal es el diseño y administración del CX en su versión transversal a través de la empresa. Es quien debe preocuparse por los momentos de la verdad en cada uno de los <i>touchpoint</i> (punto o momentos de contacto) que la marca tenga con el cliente.  
         
           .col-lg-6
             img.img-a.img-t(src='@/assets/curso/temas/img16.png', alt='') 
@@ -137,7 +137,7 @@
         .row.justify-content-center.align-items-start.p-3
           .col-lg-6.mb-4.mb-md-0
             h4 Generar interacciones de los productos
-            p La generación de interacciones de los productos con el cliente es vital, y más aún, si luego de ello se logra la recomendación. El #[i marketing] viral en todo su esplendor, logrando que los mismos usuarios recomienden la marca a sus contactos. Esto se logra cuando se tienen clientes que han vivido una CX inolvidable. Actualmente, existen un mundo de productos parecidos, un mundo de vendedores con ofreciendo lo mismo. Por eso, ser diferente es una opción que puede ser viable para los más ágiles en su relación con el cliente. El comercio electrónico y el #[i marketing] digital deben ser aprovechados al máximo para generar interacciones con los clientes y posteriormente las recomendaciones de ellos a sus contactos, usando herramientas como el correo electrónico, las redes sociales, el sitio <i>web</i> y el blog, entre otras.  
+            p La generación de interacciones de los productos con el cliente es vital, y más aún, si luego de ello se logra la recomendación. El #[i marketing] viral en todo su esplendor, logrando que los mismos usuarios recomienden la marca a sus contactos. Esto se logra cuando se tienen clientes que han vivido una CX inolvidable. Actualmente, existen un mundo de productos parecidos, un mundo de vendedores ofreciendo lo mismo. Por eso, ser diferente es una opción que puede ser viable para los más ágiles en su relación con el cliente. El comercio electrónico y el #[i marketing] digital deben ser aprovechados al máximo para generar interacciones con los clientes y posteriormente las recomendaciones de ellos a sus contactos, usando herramientas como el correo electrónico, las redes sociales, el sitio <i>web</i> y el blog, entre otras.  
         
           .col-lg-6
             img.img-a.img-t(src='@/assets/curso/temas/img18.png', alt='')
@@ -145,7 +145,7 @@
           .col-lg-5.mb-4.mb-md-0
             h4 Interpretar los resultados del <i>Customer Experience</i> y actuar 
             p La CX, al poderse gestionar, se puede medir. Por lo tanto, se debe encontrar la métrica adecuada para cada cliente.
-            p Resulta fundamental generar procesos de seguimiento y monitoreo a partir de los resultados, potencializando la experiencia post venta como parte de la estrategia de fidelización.  
+            p Resulta fundamental generar procesos de seguimiento y monitoreo a partir de los resultados, potencializando la experiencia postventa como parte de la estrategia de fidelización.  
         
           .col-lg-6
             img.img-a.img-t(src='@/assets/curso/temas/img19.png', alt='')
@@ -160,7 +160,7 @@
       .col-lg-8
         p(data-aos="fade-down") Se trata de una representación visual de la experiencia vivida por el cliente con la marca. Se diseña a través de imágenes que muestran una historia sobre cómo un cliente se va moviendo a lo largo de cada etapa o momento donde interactuó con la marca y la experiencia que tuvo en cada una. Tiene que contener los momentos o puntos de contacto y los momentos de la verdad; así como también, las posibles emociones del cliente (frustración, confusión, felicidad), y las acciones que la marca desee que realice el cliente. 
 
-        p(data-aos="fade-down") Su diseño debe ser personalizado al contexto empresarial, por lo que no existe un formato único. Se puede diseñar en algún <i>software</i> especializado como Microsoft Visio, Illustrator, CorelDraw, PowerPoint o Word. Aunque también existen plantillas o herramientas digitales para poderlas diligenciar y personalizar, como por ejemplo Gliffy (gratuita y de pago), UXPressia (grauita y de pago), Smaply (de pago), entre otras.
+        p(data-aos="fade-down") Su diseño debe ser personalizado al contexto empresarial, por lo que no existe un formato único. Se puede diseñar en algún <i>software</i> especializado como Microsoft Visio, Illustrator, CorelDraw, PowerPoint o Word. Aunque también existen plantillas o herramientas digitales para poderlas diligenciar y personalizar, como por ejemplo Gliffy (gratuita y de pago), UXPressia (gratuita y de pago), Smaply (de pago), entre otras.
 
     p(data-aos="fade-down").mb-5 A continuación, se presentan en las siguientes figuras dos ejemplos de diseño de mapa de CX: 
 
@@ -168,13 +168,13 @@
       p.mb-0 #[b Figura 1.]  Mapa de experiencia
 
     img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/img21.svg', alt='')
-    figcaption(data-aos="flip-down").mb-5 <b>Nota</b>. 5 ejemplos de cómo crear un <i>Customer Journey</i> Map efectivo. Rojas (2017). 
+    figcaption(data-aos="flip-down").mb-5 <b>Nota</b>. 5 ejemplos de cómo crear un <i>Customer Journey Map</i> efectivo. Rojas (2017). 
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-right")
       p.mb-0 #[b Figura 2.]  Mapa de experiencia
 
     img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/img22.svg', alt='')
-    figcaption(data-aos="flip-down").mb-5 <b>Nota</b>. 5 ejemplos de cómo crear un <i>Customer Journey</i> Map efectivo. Rojas (2017).  
+    figcaption(data-aos="flip-down").mb-5 <b>Nota</b>. 5 ejemplos de cómo crear un <i>Customer Journey Map</i> efectivo. Rojas (2017).  
 
     p(data-aos="fade-down").mb-5 El mapa se basa por lo general en un cronograma de actividades (puntos o momentos de contacto), como, por ejemplo:
 
@@ -212,7 +212,7 @@
               img(src='@/assets/curso/temas/img26.svg', alt='')
           .col-9.align-items-center.p-3.just
             div
-              p.mb-0 Servicio posventa.
+              p.mb-0 Servicio postventa.
       .col-12.col-lg-4.mb-3.h-100.esp(data-aos="zoom-in")
         .row.bg5
           .col-3.px-0.align-items-center.bg5_1
@@ -345,17 +345,17 @@
             ul.lista-ul
               li 
                 i.fas.fa-angle-right.color-v
-                p.mb-0 #[b Contacto antes de encontrar tu negocio:] Preguntar al cliente en qué medio encontró la empresa, marca o productos.
+                p.mb-0 #[b Contacto antes de encontrar tu negocio:] preguntar al cliente en qué medio encontró la empresa, marca o productos.
 
             ul.lista-ul
               li 
                 i.fas.fa-angle-right.color-v
-                p.mb-0 #[b Contacto mientras se encuentran en tu negocio:] Descubrir por qué visitan la empresa (presencial o virtual), la razón, las necesidades que tuvo y el porqué de la compra.
+                p.mb-0 #[b Contacto mientras se encuentran en tu negocio:] descubrir por qué visitan la empresa (presencial o virtual), la razón, las necesidades que tuvo y el porqué de la compra.
 
             ul.lista-ul
               li 
                 i.fas.fa-angle-right.color-v
-                p.mb-0 #[b Contacto después de comprar en tu negocio:] Conocer cómo fue la experiencia la marca, si pudo solucionar el problema, si fue bueno el servicio al cliente.              
+                p.mb-0 #[b Contacto después de comprar en tu negocio:] conocer cómo fue la experiencia, la marca, si pudo solucionar el problema, si fue bueno el servicio al cliente.              
         .row.justify-content-lg-center.align-items-start(titulo="Paso 4")
           .col-md-4.col-10
             figure
@@ -495,14 +495,14 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/img55.svg', alt='')
-        figcaption(data-aos="flip-down").mb-4 <b>Nota</b>. 5 Imagen adaptada de 8 pasos para construir una Estrategia de Comunicación. Viñas (2016) 
+        figcaption(data-aos="flip-down").mb-4 <b>Nota</b>. Imagen adaptada de 8 pasos para construir una Estrategia de Comunicación. Viñas (2016) 
 
     .tarjeta.tarjeta--azul.p-5.mb-5(data-aos="fade-left")
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-start.p-3
           .col-lg-6.mb-4.mb-md-0
             h4 Paso 1: Análisis del contexto. 
-            p Se debe desarrollar un análisis sobre los factores políticos, socioculturales, económicos, ambientales, legales y tecnológicos son relación al impacto que pueden tener en el negocio. Para esto se puede usar el modelo PESTEL, que si está bien construido permite prever cómo se va a mover el mercado para planear las acciones de mercadeo que se pueden desarrollar.
+            p Se debe desarrollar un análisis sobre los factores políticos, socioculturales, económicos, ambientales, legales y tecnológicos con relación al impacto que pueden tener en el negocio. Para esto se puede usar el modelo PESTEL, que si está bien construido permite prever cómo se va a mover el mercado para planear las acciones de mercadeo que se pueden desarrollar.
           .col-lg-6
             img.img-a.img-t(src='@/assets/curso/temas/img56.png', alt='')  
 
@@ -631,7 +631,7 @@
         .row
           .col-lg-8.mb-4.mb-lg-0
             h4 Socializa 
-            p Le gusta compartir sus experiencias, bien sea a través de las redes sociales, un blog o el <i>whatsapp</i>. Viraliza lo que le gusta de una marca, especialmente cuando tiene experiencias significativas. Pero si siente algo malo por parte de la marca (servicio, atención, garantía, etc.), también lo hará saber. 
+            p Le gusta compartir sus experiencias, bien sea a través de las redes sociales, un blog o el <i>WhatsApp</i>. Viraliza lo que le gusta de una marca, especialmente cuando tiene experiencias significativas. Pero si siente algo malo por parte de la marca (servicio, atención, garantía, etc.), también lo hará saber. 
           .col-lg-4
             figure
               img(src='@/assets/curso/temas/img70.png', style="width: 350px").m-auto  
@@ -649,12 +649,12 @@
         .row
           .col-lg-8.mb-4.mb-lg-0
             h4 Interacción 
-            p Tiene interacción tanto online como offline. Es posible que busque un producto de manera presencial para luego comprando por la <i>web</i>, o viceversa. 
+            p Tiene interacción tanto <i>online</i> como <i>offline</i>. Es posible que busque un producto de manera presencial para luego comprando por la <i>web</i>, o viceversa. 
           .col-lg-4
             figure
               img(src='@/assets/curso/temas/img72.png', style="width: 350px").m-auto
 
-    p(data-aos="fade-down").mb-5 Con base en los siguientes datos las marcas tienen que ajustar sus estrategias de venta y atención al cliente hacia nuevas opciones de interacción de tal manera que se fortalezca el negocio y el engagement: 
+    p(data-aos="fade-down").mb-5 Con base en los siguientes datos las marcas tienen que ajustar sus estrategias de venta y atención al cliente hacia nuevas opciones de interacción, de tal manera que se fortalezca el negocio y el <i>engagement</i>: 
 
     .row.justify-content-center
       .col-lg-12
@@ -691,7 +691,7 @@
               .tarjeta-foto-hover__tarjeta.bg-degrade3.d-flex.align-items-center.justify-content-center
                 .p-4.text-center
                   img.img-a.img-t.mb-3(src='@/assets/curso/temas/img84.png', alt='')
-                  p.mb-0 Brindar estrategias que puedan unir los mundos offline y online.
+                  p.mb-0 Brindar estrategias que puedan unir los mundos <i>offline</i> y <i>online</i>.
 
           .col-lg-3.mb-3
             .tarjeta.tarjeta-foto-hover
@@ -800,7 +800,7 @@
         .row.h-100
           .col-12.px-5.pt-5.pb-5.pb-lg-0.bg12
             h4.mb-3 Basados en la nube.
-            p.mb-0 Hace referencia a aplicaciones que residen en la nube y se puede acceder a ellas sin importar en dónde se encuentre y desde cualquier dispositivo que tenga conexión a internet. Por lo tanto, no necesitan instalarse y se conservan actualizadas de forma permanente, sin necesidad de tener que descargar archivos o realizar alguna operación adicional. Otro beneficio es el respaldo porque toda la información queda almacenada en servidores externos. Se puede estar seguro que no se pierde la información, aunque el equipo sufra un accidente o se lo roben. 
+            p.mb-0 Hace referencia a aplicaciones que residen en la nube y se puede acceder a ellas sin importar en dónde se encuentre y desde cualquier dispositivo que tenga conexión a internet. Por lo tanto, no necesitan instalarse y se conservan actualizadas de forma permanente, sin necesidad de tener que descargar archivos o realizar alguna operación adicional. Otro beneficio es el respaldo porque toda la información queda almacenada en servidores externos. Se puede estar seguro de que no se pierde la información, aunque el equipo sufra un accidente o se lo roben. 
     .pt-1
     p(data-aos="fade-down").my-5.pt-5 El ecosistema digital es el favorito de muchas marcas porque les permite trabajar a distancia, no tener que instalar ningún <i>software</i> o aplicación y, además, acceder a la información cuando se desee, la cual está protegida en la <i>web</i>.
 
@@ -820,7 +820,7 @@
               p Casi todos los ecosistemas digitales se centran primordialmente en el sitio <i>web</i> de una marca, por lo que es imperativo poner mucho cuidado en esta herramienta. Es vital tener una buena organización del contenido, criterios unificados en el diseño y un impacto visual en el cliente. En el tema del contenido, se debe definir qué tipo de información se desea compartir a los clientes y cómo atraer su atención.
             .col-md-4
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img102.png', alt='') 
-          .row(titulo="Branding/Marca")
+          .row(titulo="<i>Branding</i>/Marca")
             .col-md-8.mb-4.mb-md-0
               p El diseño de la marca, la definición de la empresa y la manera en que se da conocer al cliente, son parte fundamental de las herramientas que conforman el ecosistema digital. A través de la marca se puede transmitir el mensaje de lo que se desea vender. 
             .col-md-4
@@ -837,7 +837,7 @@
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img106.png', alt='') 
           .row(titulo="SEO")
             .col-md-8.mb-4.mb-md-0
-              p Una estructura SEO (Search Engine #[i marketing] – posicionamiento natural y orgánico) bien trabajada se consigue a través del uso de palabras clave, información valiosa, las meta descripciones y un contenido con una organización semántica sólida; esto ayudará a lograr un mayor alcance.  
+              p Una estructura SEO (#[i Search Engine marketing] – posicionamiento natural y orgánico) bien trabajada se consigue a través del uso de palabras clave, información valiosa, las meta descripciones y un contenido con una organización semántica sólida; esto ayudará a lograr un mayor alcance.  
             .col-md-4
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img107.png', alt='') 
           .row(titulo="SEM")

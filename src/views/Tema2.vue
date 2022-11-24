@@ -7,7 +7,7 @@
         span 2
       h1 Perfilamiento del #[i Buyer] Persona
 
-    p(data-aos="fade-down").mb-5 Una de las principales estrategias en el marketing digital es el perfilamiento del <i>Buyer</i> persona, Beltrán, Ledesma y Parrales (2019) mencionan que se puede crear este perfilamiento en cinco (5) pasos así:
+    p(data-aos="fade-down").mb-5 Una de las principales estrategias en el <i>marketing</i> digital es el perfilamiento del <i>Buyer</i> persona, Beltrán, Ledesma y Parrales (2019) mencionan que se puede crear este perfilamiento en cinco (5) pasos así:
     .bg14 
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-10
@@ -73,7 +73,7 @@
               h5.mb-0 Recopilar más datos sobre los clientes.
               .col-5.borde
               
-          p(data-aos="fade-down").mb-5 Se debe comenzar con la recopilación (online y offline) de todo lo que se pueda sobre los clientes.
+          p(data-aos="fade-down").mb-5 Se debe comenzar con la recopilación (<i>online</i> y <i>offline</i>) de todo lo que se pueda sobre los clientes.
 
           TabsB.color-acento-contenido.mb-5.bg15(data-aos="fade") 
             .py-4.py-md-5(titulo="Consultar" :icono="require('@/assets/curso/temas/img123.svg')")
@@ -229,7 +229,7 @@
         p(data-aos="fade-down") Según Beltrán, Ledesma, y Parrales (2019) la estrategia de venta falla estrepitosamente cuando las empresas no definen su <i>Buyer</i> Persona. Es por esto que su definición puede lograr la diferencia entre una estrategia positiva y una fracasada. Uno de los errores del mercadeo digital consiste en pensar que el mensaje va a cautivar a todos los clientes, cuando realmente la efectividad se logra conociendo perfectamente los prospectos reales. 
         .row.justify-content-start.align-items-center    
           .col-lg-10.col-md-12.up.col-sm-12
-            p(data-aos="fade-down").mb-0 El análisis realizado sobre el <i>Buyer</i> Persona admite comprender a quién se le habla y cuáles son los métodos precisos y oportunos para conquistarlos. En un mundo digital repleto de información (mucha de ella considerada fake news) es vital comprender cómo captar la atención de los prospectos, cómo hacer que elijan la marca y no la competencia.
+            p(data-aos="fade-down").mb-0 El análisis realizado sobre el <i>Buyer</i> Persona admite comprender a quién se le habla y cuáles son los métodos precisos y oportunos para conquistarlos. En un mundo digital repleto de información (mucha de ella considerada <i>fake news</i>) es vital comprender cómo captar la atención de los prospectos, cómo hacer que elijan la marca y no la competencia.
 
         .tarjeta.position-relative(data-aos="flip-down")
           .imagen-absolute
@@ -488,7 +488,7 @@
           .list__txt
             h3.mb-0.mt-1.pe-3 Ejemplos de KPIs para medir la Experiencia de Clientes
 
-    p(data-aos="fade-down").mb-5 Existen diferentes KPI de CX, pero, algunos son más importantes que otros porque brindan datos valiosos para las marcas. Son métrica llamadas Customer Service que toda empresa debería considerar en su estrategia de análisis y medición:
+    p(data-aos="fade-down").mb-5 Existen diferentes KPI de CX, pero, algunos son más importantes que otros porque brindan datos valiosos para las marcas. Son métrica llamadas <i>Customer Service</i> que toda empresa debería considerar en su estrategia de análisis y medición:
 
     .tarjeta.tarjeta--gris.p-5.mb-5(data-aos="fade-left")
       SlyderA(tipo="b")
@@ -537,7 +537,7 @@
             p.mb-4 El #[b #[i “Customer Lifetime Value”]] es otro importantísimo KPI de CX que todo negocio debe considerar porque se refiere al valor de un cliente para la marca durante su vida, o sea, el tiempo en el que es cliente actual. Con este indicador se puede saber la rentabilidad que el cliente ha dejado a la marca a lo largo del tiempo y determinar los ingresos totales que se pueden conseguir de él. 
             .bg20.p-4
               h5.mb-4 Ejemplo:
-              p un atleta compra tenis 4 veces al año durante 8 años en la misma empresa de artículos deportivos, lo que puede valer:
+              p Un atleta compra tenis 4 veces al año durante 8 años en la misma empresa de artículos deportivos, lo que puede valer:
 
               p.mb-0 $100 US por par de tenis, multiplicado por 4 pares al año, durante 8 años= 100 x 4 x 8 = $3.200 US 
         
@@ -557,7 +557,7 @@
         .row.justify-content-center.align-items-start.p-3
           .col-lg-6.mb-4.mb-md-0
             h4 Satisfacción de los empleados. 
-            p No se puede olvidar la experiencia y satisfacción de los empleados. Si ellos no están contentos, sería bastante difícil que la empresa pudiera brindar una buena CX. Por eso, para lograr este indicador, se debe preguntar directamente a cada empleado qué tan bien se siente trabajando en la empresa, si están orgullosos de pertenecer a su equipo de trabajo o qué mejorarían. En esta métrica se pide al empleado calificar su nivel de satisfacción laborando en la empresa en una escala que va de “Totalmente satisfecho” a “Totalmente insatisfecho”
+            p No se puede olvidar la experiencia y satisfacción de los empleados. Si ellos no están contentos, sería bastante difícil que la empresa pudiera brindar una buena CX. Por eso, para lograr este indicador, se debe preguntar directamente a cada empleado qué tan bien se siente trabajando en la empresa, si están orgullosos de pertenecer a su equipo de trabajo o qué mejorarían. En esta métrica se pide al empleado calificar su nivel de satisfacción laborando en la empresa en una escala que va de “Totalmente satisfecho” a “Totalmente insatisfecho”.
             .bg20.p-4
               h5.mb-4
               p ¿Qué tan bien te sientes haciendo tu trabajo?
@@ -571,7 +571,7 @@
       .col-lg-2.my-3 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/187.png', alt='')   
       .col-lg-10.my-3
-        p(data-aos="fade-down") Como se puede observar, los KPI de CX son vitales para que una empresa crezca. Si no se tiene una idea clara de cómo están funcionando las estrategias, sus planes de acción y, en general, la empresa, de nada va a servir la implementación de nuevas tecnologías para la atención al cliente, para mejorar los servicios o para el diseño de una excelente estrategia de marketing. La aplicación de estos indicadores ayudará a la empresa a conocer si va en el camino correcto o si debe desarrollar un plan de mejoramiento. (Pozo, 2018) 
+        p(data-aos="fade-down") Como se puede observar, los KPI de CX son vitales para que una empresa crezca. Si no se tiene una idea clara de cómo están funcionando las estrategias, sus planes de acción y, en general, la empresa, de nada va a servir la implementación de nuevas tecnologías para la atención al cliente, para mejorar los servicios o para el diseño de una excelente estrategia de <i>marketing</i>. La aplicación de estos indicadores ayudará a la empresa a conocer si va en el camino correcto o si debe desarrollar un plan de mejoramiento. (Pozo, 2018). 
 
     .row.justify-content-start.align-items-center.mb-5           
       .col-auto
@@ -651,7 +651,7 @@
           p Actualmente, los clientes se encuentran cada vez más comprometidos con las marcas (Engagement – compromiso de marca), por lo que desean tener una relación transparente y honesta. Por este motivo, es vital poseer políticas nítidas y cumplirlas, además de tener el servicio oportuno. Si en algún momento, un empleado no sabe cómo solucionar un problema mostrado por el cliente, le debe informar que buscará una resolución y que lo contactará más tarde, cuando tenga la solución a la mano. 
         .col-md-2
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img182.svg', alt='') 
-      .row(titulo="Hacer el post-venta")
+      .row(titulo="Hacer el postventa")
         .col-md-10.mb-4.mb-md-0
           p Los clientes de hoy se interesan por tener relaciones duraderas con las marcas afines. Por eso, valoran mucho el servicio postventa y el afianzamiento de la relación. Entonces, la empresa debe certificar una excelente CX antes del cierre, asegurándose de que todo funciona bien. Para identificarlo, se puede solicitar una evaluación, preguntando al cliente si la entrega estuvo bien y poniéndose a su disposición. 
         .col-md-2
